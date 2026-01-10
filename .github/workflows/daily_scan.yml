@@ -1,0 +1,43 @@
+name: PubMed 每日爬虫
+
+# 触发条件：
+# 1. 每天国际标准时间 0点 (北京时间早上8点)
+# 2. 允许手动点击按钮触发 (workflow_dispatch)
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # 重要！赋予写权限，否则无法更新 README
+
+    steps:
+      # 1. 下载仓库代码
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 2. 安装 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # 3. 安装依赖库 (biopython)
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      # 4. 运行我们的爬虫脚本
+      - name: Run crawler script
+        run: python main.py
+
+      # 5. 如果 README 有变化，提交保存
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "自动更新: PubMed 文献日报"
+          file_pattern: README.md
