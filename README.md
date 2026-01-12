@@ -1,6 +1,6 @@
 # 🧬 In vivo CAR-T 文献周报
 
-> 📅 更新日期: 2026-01-11 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
+> 📅 更新日期: 2026-01-12 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
 
 ## 📘 最新综述 (Reviews) - 2 篇
 ---
@@ -12,8 +12,16 @@
 - 📚 **Biomolecules & therapeutics** | IF: N/A
 - **摘要**: Cancer immunotherapy represents a paradigm-shifting achievement in oncology. Particularly, chimeric antigen receptor (CAR)-T cell therapy utilizing genetically engineered T cells has produced remarkab...
 
-## 🔬 最新研究论文 (Articles) - 12 篇
+## 🔬 最新研究论文 (Articles) - 14 篇
 ---
+### [Single-Chain IL-23 Secretion by CAR T Cells Improves Tumor Control and Persistence Against Solid Tumors.](https://pubmed.ncbi.nlm.nih.gov/41520177/)
+- 📚 **Molecular therapy : the journal of the American Society of Gene Therapy** | IF: N/A
+- **摘要**: Chimeric antigen receptor (CAR) T cell therapy achieves durable remissions in hematological malignancies, yet its success against solid tumors is blunted in part by the tumors' highly immunosuppressiv...
+
+### [Clinical Trial Results Provide the Rationale to Protect Dual HIV-specific T Cells with a Signaling-Defective HIV Fusion Inhibitor.](https://pubmed.ncbi.nlm.nih.gov/41520175/)
+- 📚 **Molecular therapy : the journal of the American Society of Gene Therapy** | IF: N/A
+- **摘要**: Coupling the HIV fusion inhibitor C34 with CXCR4 (C34-CXCR4) protected CD4 T cells from all strains of HIV. Escape from C34-CXCR4 expression proved difficult, requiring more than 21 serial passages, m...
+
 ### [Engineering single-vector logic-gated CAR T cells with transgene sizes beyond current limitations.](https://pubmed.ncbi.nlm.nih.gov/41513407/)
 - 📚 **Journal for immunotherapy of cancer** | 🌟 **IF: 10.9**
 - **摘要**: Engineering chimeric antigen receptor (CAR) T cells with logic-gated synthetic Notch (synNotch) receptor circuits can enhance specificity and mitigate on-target/off-tumor toxicity. However, the conven...
