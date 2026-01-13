@@ -1,6 +1,6 @@
 # 🧬 In vivo CAR-T 文献周报
 
-> 📅 更新日期: 2026-01-12 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
+> 📅 更新日期: 2026-01-13 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
 
 ## 📘 最新综述 (Reviews) - 2 篇
 ---
@@ -12,7 +12,7 @@
 - 📚 **Biomolecules & therapeutics** | IF: N/A
 - **摘要**: Cancer immunotherapy represents a paradigm-shifting achievement in oncology. Particularly, chimeric antigen receptor (CAR)-T cell therapy utilizing genetically engineered T cells has produced remarkab...
 
-## 🔬 最新研究论文 (Articles) - 14 篇
+## 🔬 最新研究论文 (Articles) - 12 篇
 ---
 ### [Single-Chain IL-23 Secretion by CAR T Cells Improves Tumor Control and Persistence Against Solid Tumors.](https://pubmed.ncbi.nlm.nih.gov/41520177/)
 - 📚 **Molecular therapy : the journal of the American Society of Gene Therapy** | IF: N/A
@@ -61,12 +61,4 @@
 ### [Harnessing the CD2 axis to broaden and enhance the efficacy of CAR T-cell therapies.](https://pubmed.ncbi.nlm.nih.gov/41490267/)
 - 📚 **Blood** | 🔥 **IF: 21.0**
 - **摘要**: Patients with T-cell lymphomas and leukemias have overall poor outcomes due to the lack of targeted and effective treatments, particularly in the relapsed and refractory settings. Development of chime...
-
-### [BASIC Enables Selection-Free Efficient Knock-In of Large DNA in Primary Human T Cells.](https://pubmed.ncbi.nlm.nih.gov/41485050/)
-- 📚 **Molecular therapy : the journal of the American Society of Gene Therapy** | IF: N/A
-- **摘要**: Efficient and precise insertion of large DNA fragments into primary human T cells has remained a bottleneck for gene and cell therapy. We present BASIC, a modular platform that combines BaEVshort-pseu...
-
-### [CD96 as a Therapeutic Target for CAR T-Cell Therapy in Acute Myeloid Leukemia.](https://pubmed.ncbi.nlm.nih.gov/41485047/)
-- 📚 **Molecular therapy : the journal of the American Society of Gene Therapy** | IF: N/A
-- **摘要**: Therapies leveraging chimeric antigen receptor (CAR) T cells for acute myeloid leukemia (AML) are limited by the scarcity of leukemia stem cell (LSC)-specific antigens. Here, we found that CD96 is exp...
 
