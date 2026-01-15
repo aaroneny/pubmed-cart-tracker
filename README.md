@@ -1,19 +1,19 @@
 # 🧬 In vivo CAR-T 文献周报
 
-> 📅 更新日期: 2026-01-14 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
+> 📅 更新日期: 2026-01-15 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
 
-## 📘 最新综述 (Reviews) - 2 篇
+## 📘 最新综述 (Reviews) - 1 篇
 ---
 ### [Advancing adoptive T cell therapy in ovarian cancer: barriers, innovations, and emerging platforms.](https://pubmed.ncbi.nlm.nih.gov/41513408/)
 - 📚 **Journal for immunotherapy of cancer** | 🌟 **IF: 10.9**
 - **摘要**: Adoptive cell therapy (ACT) has demonstrated curative potential in select cancers, but its translation to solid tumors such as ovarian cancer (OC) has been hindered by multiple factors, including tumo...
 
-### [Advancing Cancer Immunotherapy: Chimeric Antigen Receptor (CAR)-T Cell Engineering through Novel Screening Methods.](https://pubmed.ncbi.nlm.nih.gov/41490986/)
-- 📚 **Biomolecules & therapeutics** | IF: N/A
-- **摘要**: Cancer immunotherapy represents a paradigm-shifting achievement in oncology. Particularly, chimeric antigen receptor (CAR)-T cell therapy utilizing genetically engineered T cells has produced remarkab...
-
-## 🔬 最新研究论文 (Articles) - 12 篇
+## 🔬 最新研究论文 (Articles) - 11 篇
 ---
+### [A Murine Bispecific Antibody Efficiently Redirects T Cells Against Calr Mutated Stem Cells In Vivo.](https://pubmed.ncbi.nlm.nih.gov/41532194/)
+- 📚 **American journal of hematology** | 🌟 **IF: 12.8**
+- **摘要**: Calreticulin (CALR) mutations are prevalent in 20%-30% of patients with BCR::ABL1-negative myeloproliferative neoplasms (MPN). Mutant calreticulin (mutCALR), presented by the thrombopoietin receptor (...
+
 ### [Single-Chain IL-23 Secretion by CAR T Cells Improves Tumor Control and Persistence Against Solid Tumors.](https://pubmed.ncbi.nlm.nih.gov/41520177/)
 - 📚 **Molecular therapy : the journal of the American Society of Gene Therapy** | IF: N/A
 - **摘要**: Chimeric antigen receptor (CAR) T cell therapy achieves durable remissions in hematological malignancies, yet its success against solid tumors is blunted in part by the tumors' highly immunosuppressiv...
@@ -53,12 +53,4 @@
 ### [CAR-adapted PIK3CD base editing enhances T cell anti-tumor potency.](https://pubmed.ncbi.nlm.nih.gov/41495526/)
 - 📚 **Nature cancer** | 🔥 **IF: 23.5**
 - **摘要**: Insufficient functional T cell persistence impedes therapeutic success of chimeric antigen receptor (CAR) therapies. Here we performed a CAR-adapted base-editing screen of PIK3CD, a key regulator of T...
-
-### [Optimizing In Vivo CAR-T Cell Engineering for Cancer Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41490421/)
-- 📚 **Cancer research** | 🌟 **IF: 11.2**
-- **摘要**: Chimeric antigen receptor (CAR)-T cell therapy enables potent, antigen-specific immune responses and has demonstrated success in treating hematologic malignancies. However, conventional ex vivo CAR-T ...
-
-### [Harnessing the CD2 axis to broaden and enhance the efficacy of CAR T-cell therapies.](https://pubmed.ncbi.nlm.nih.gov/41490267/)
-- 📚 **Blood** | 🔥 **IF: 21.0**
-- **摘要**: Patients with T-cell lymphomas and leukemias have overall poor outcomes due to the lack of targeted and effective treatments, particularly in the relapsed and refractory settings. Development of chime...
 
