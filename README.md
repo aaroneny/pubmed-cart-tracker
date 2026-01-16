@@ -1,51 +1,21 @@
-# 🧬 Bio-Research Monthly Tracker
+# 🧬 In vivo CAR-T 精选追踪
 
-**关注领域**: In vivo CAR-T | mRNA-LNP | Lentiviral Vectors
+**聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-01-16 (过去 30 天文献，按 IF 排序)
-
----
-
-### [Targeted PGC-1α gene delivery by GV-assisted ultrasound cavitation for renal ischemia-reperfusion injury therapy.](https://pubmed.ncbi.nlm.nih.gov/41536982/)
-- **期刊**: *iScience* | 🔥 IF: **56.9**
-- **核心结论**: 
-> 从机制上讲，受损肾 EC 中过度表达的 PGC-1α 通过上调 BNIP3、BNIP3L 和 SOD2 促进线粒体自噬并抑制 ROS 产生。这项研究为早期有效治疗肾 IRI 提供了一种有前途的策略。
+📅 **更新日期**: 2026-01-16
 
 ---
-### [Optogenetic BlueGENEs engineered into a human safe harbor locus.](https://pubmed.ncbi.nlm.nih.gov/41533592/)
-- **期刊**: *Nucleic acids research* | 🔥 IF: **14.9**
+
+### [Low reactogenicity and high tumour antigen expression from mRNA-LNPs with membrane-destabilizing zwitterionic lipids.](https://pubmed.ncbi.nlm.nih.gov/41413325/)
+- **期刊**: *Nature biomedical engineering* | 🔥 IF: **28.1**
 - **核心结论**: 
-> 我们生成了各种人类细胞系，用于对凋亡细胞命运、3D 组织形成和促进细胞骨架重塑的信号进行光学控制。我们的结果证明了光遗传学细胞与生物打印技术的整合，说明了 BlueGENE 在推进从头合成或源自患者的体外模型系统方面的潜力。
+> 此外，这些膜不稳定的含两性离子脂质的纳米颗粒由于其两性离子特性而显示出减少注射部位的炎症和中性粒细胞浸润。这些脂质还与现有的靶向纳米颗粒配方兼容，进一步改善了 mRNA 的递送。
 
 ---
-### [Nano MiRNA-Functionating Tetrahedral Framework Nucleic Acid for Cartilage-Targeted Ferritinophagy Modulation to Attenuate Temporomandibular Joint Osteoarthritis.](https://pubmed.ncbi.nlm.nih.gov/41537172/)
-- **期刊**: *Small science* | 🔥 IF: **13.3**
+### [Intraperitoneal programming of tailored CAR macrophages via mRNA lipid nanoparticle to boost cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41444487/)
+- **期刊**: *Nature communications* | 🔥 IF: **16.6**
 - **核心结论**: 
-> 结果表明，tFNAs-143 在软骨细胞中表现出优异的细胞内化作用，并通过阻止铁蛋白自噬介导的铁死亡来有效减轻 TMJOA 进展。这项研究推进了 TMJOA 治疗的 miRNA 递送技术，加深了对 TMJOA 发病机制的认识，并提出了一种有前景的纳米治疗策略，用于开发靶向 TMJOA 疗法。
-
----
-### [The newly developed porcine-origin parainfluenza virus PIV5-JS17 serves as an exogenous gene delivery system for swine.](https://pubmed.ncbi.nlm.nih.gov/41528129/)
-- **期刊**: *Journal of virology* | 🔥 IF: **5.4**
-- **核心结论**: 
-> 利用 eGFP 作为外源基因模型，我们的研究结果表明 P/M 基因间区域是插入外源基因的最佳位点。该研究以PDCoV-S蛋白作为模型抗原，表明这种新型猪源PIV5病毒载体为解决猪传染病提供了创新的预防方法和基因传递策略。
-
----
-### [Key optogenetic advances in retinal prostheses: A comparative narrative review.](https://pubmed.ncbi.nlm.nih.gov/41534822/)
-- **期刊**: *Brain research* | IF: -
-- **核心结论**: 
-> 该综述强调了光遗传学视网膜假体提供持久、有效的视力康复、显着改善患者生活质量的潜力。这篇叙述性综述强调，需要进一步的研究来克服当前的障碍，例如提高视蛋白敏感性和基因传递技术，以确保患者长期、有效的视力恢复。
-
----
-### [Adeno-associated viral vector-mediated gene delivery and shRNA knockdown in primary human cytotrophoblasts.](https://pubmed.ncbi.nlm.nih.gov/41534193/)
-- **期刊**: *Placenta* | IF: -
-- **核心结论**: 
-> 在这里，我们提供了 AAV 介导的原发 CTB 基因传递方法的概念证明。该平台能够进行深入的细胞生物学研究，以阐明人类胎盘生物学和病理学的分子机制。
-
----
-### [Erratum for the Research Article "Single immunizations of self-amplifying or non-replicating mRNA-LNP vaccines control HPV-associated tumors in mice" by J. Ramos da Silva <i>et al</i>.](https://pubmed.ncbi.nlm.nih.gov/41533779/)
-- **期刊**: *Science translational medicine* | IF: -
-- **核心结论**: 
-> 暂无摘要
+> 从机制上讲，CAR-Ms 维持促炎表型，并通过扰乱 NF-κB 通路同时上调 MHC-I 和 PD-L1。总的来说，这种方法能够对定制的 CAR-M 进行腹膜内编程，并扩大对针对实体瘤的 CAR-M 疗法的调节和反馈机制的理解。
 
 ---
 ### [Lineage-matched Oropouche virus mRNA-LNP vaccines confer complete, cross-protective immunity in mice.](https://pubmed.ncbi.nlm.nih.gov/41532773/)
@@ -54,75 +24,111 @@
 > 在这里，我们表明，编码来自不同病毒谱系的 OROV 包膜糖蛋白的 mRNA-脂质纳米颗粒 (mRNA-LNP) 疫苗可引发强烈的抗体和 T 细胞反应，并在小鼠模型中提供强大的保护，包括对原型毒株和当前流行毒株的致命攻击的灭菌免疫。我们的数据表明，整合当代抗原序列可以增强交叉菌株保护，支持使用 mRNA-LNP 平台作为未来 OROV 爆发和相关新兴病原体的快速、适应性强的解决方案。
 
 ---
-### [Genistein-loaded solid lipid nanoparticle in microneedle patch: potential for enhanced management of osteoporosis.](https://pubmed.ncbi.nlm.nih.gov/41530578/)
-- **期刊**: *Drug delivery and translational research* | IF: -
+### [Engineering single-vector logic-gated CAR T cells with transgene sizes beyond current limitations.](https://pubmed.ncbi.nlm.nih.gov/41513407/)
+- **期刊**: *Journal for immunotherapy of cancer* | IF: -
 - **核心结论**: 
-> 进行的皮肤刺激测试表明，所开发的可溶性微针具有生物相容性和皮肤病学安全性。该微针平台与优化的 SLN 载体相结合，可确保非侵入性受控透皮给药，最大限度地发挥金雀异黄素的成骨功效，从而有效治疗骨质疏松症。
+> 在使用组成型 CAR T 细胞作为对照的小鼠模型中，HER2-MSLN-CBG svsNotch T 细胞在没有 HER2 的情况下表现出最小的细胞毒性，并且对 HER2<sup>low</sup>MSLN<sup>high</sup> 和 HER2<sup>high</sup>MSLN<sup>high</sup> 肿瘤具有优异的疗效。这些数据建立了一个工程逻辑门控单载体免疫疗法的框架，并提供了一个优化的工作流程，用于生成具有超出当前大小限制的转基因的 CAR T 细胞。
 
 ---
-### [Tetra(4-carboxyphenyl)porphyrin-grafted chitosan fluorescent biopolymer: Synthesis, characterization, high DNA loading capacity and gene delivery.](https://pubmed.ncbi.nlm.nih.gov/41529756/)
-- **期刊**: *International journal of biological macromolecules* | IF: -
+### [Restoration of progranulin by engineered hematopoietic stem cell-derived microglia corrects phenotypes of granulin knockout mice.](https://pubmed.ncbi.nlm.nih.gov/41499526/)
+- **期刊**: *Science translational medicine* | IF: -
 - **核心结论**: 
-> 它可以有效地装载 DNA 并提高基因传递效率。此外，它还表现出有效的细胞摄取，突显其作为一种有效的非病毒基因递送载体，可用于癌症治疗的递送。
+> 使用任一启动子和给药途径均获得类似的治疗效果，特别是当表达PGRN的细胞及其MLC后代在脑室内移植后仅植入中枢神经系统（CNS）时也达到了类似的治疗效果。这些发现表明，中枢神经系统中 PGRN 表达的持久但适度的恢复足以纠正病理。
 
 ---
-### [A label-free multi-parameter screening method for predicting the stability of mRNA-LNP formulations.](https://pubmed.ncbi.nlm.nih.gov/41525960/)
-- **期刊**: *International journal of pharmaceutics* | IF: -
+### [Optimizing In Vivo CAR-T Cell Engineering for Cancer Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41490421/)
+- **期刊**: *Cancer research* | IF: -
 - **核心结论**: 
-> 在逻辑回归模型中使用 T<sub>agg</sub> 和 Δr<sub>h</sub>，基于热分析的“合格/不合格”调用表现出与 40°C 加速稳定性结果良好的一致性，支持使用该策略作为该 mRNA-LNP 平台中的早期筛选工具。然而，其在不同货物和脂质化学中的更广泛适用性将需要进一步验证。
+> 我们还讨论了载体趋向性、膜修饰和靶向配体的设计原理，以及临床前和临床环境中的转化研究。最后，该综述探讨了与递送相关的挑战以及优化载体稳定性、增强 T 细胞靶向性和降低免疫原性的未来前景，以推动体内 CAR-T 疗法走向更广泛的临床应用。
 
 ---
-### [Bis-prodrug cryopreserved lipid nanoparticles with enzymatically triggered release.](https://pubmed.ncbi.nlm.nih.gov/41522180/)
-- **期刊**: *Nanoscale advances* | IF: -
+### [Type I interferon restricts mRNA vaccine efficacy through suppression of antigen uptake in cDCs.](https://pubmed.ncbi.nlm.nih.gov/41486285/)
+- **期刊**: *NPJ vaccines* | IF: -
 - **核心结论**: 
-> 这项工作强调了基于前药的策略将水溶性 API 配制为稳定的冷冻干燥 LNP 的机会，从而实现受控的酶响应释放。这些发现深入了解了表面活性剂成分如何影响冷冻干燥相容性，并为开发用于小分子输送的 LNP 系统提供了平台。
+> 我们还证明，由先前感染或施用不同疫苗触发的疫苗接种前的 IFN 信号传导会损害树突状细胞对 mRNA-LNP 疫苗的摄取，并降低疫苗特异性 CD8+ T 细胞反应的强度。这些发现强调了 IFN 信号传导的双刃性质，并为增强疫苗诱导的免疫力提供了潜在的策略。
 
 ---
-### [Poly(sarcosine) Lipid Synthesis From CO<sub>2</sub>-Based Sarcosine-N-Carboxyanhydride.](https://pubmed.ncbi.nlm.nih.gov/41521781/)
-- **期刊**: *Macromolecular rapid communications* | IF: -
+### [Chimeric antigen receptor dendritic cells suppress melanoma growth in preclinical cancer models.](https://pubmed.ncbi.nlm.nih.gov/41475842/)
+- **期刊**: *Journal for immunotherapy of cancer* | IF: -
 - **核心结论**: 
-> 此外，我们使用获得的 pSar 来合成适合 LNP 制备的 pSar 脂质。由于其低毒性和简单性，基于CO<sub>2</sub>的Sar-NCA合成具有巨大的潜力，成为当前单体合成途径的有吸引力的替代方案。
+> CAR-DCs可能是治疗实体瘤的有效策略，值得进一步探索。该方法依赖于 DC 的抗原呈递能力及其在 T 细胞激活中的作用，并且可以与检查点抑制相结合来代替单克隆抗体治疗。
 
 ---
-### [mRNA-Encoded antibodies as a next-generation therapeutic paradigm: a rapid and adaptive platform for the prevention and treatment of emerging and re-emerging infectious diseases - A critical review.](https://pubmed.ncbi.nlm.nih.gov/41521363/)
-- **期刊**: *Immunologic research* | IF: -
+### [A combination of new prefusion mRNA and protein vaccines enhances neutralizing antibodies and protection against respiratory syncytial virus.](https://pubmed.ncbi.nlm.nih.gov/41455187/)
+- **期刊**: *Vaccine* | IF: -
 - **核心结论**: 
-> 当世界面临反复出现的病毒威胁时，mRNA 编码抗体作为即插即用系统的开发为传染病防备提供了一种引人注目的、适应性强且临床可行的策略。本综述探讨了 mRNA 编码抗体在对抗大流行和地方性感染方面的机制基础、递送技术、转化进展、案例研究、安全性考虑因素以及未来的临床潜力。
+> 前 F mRNA 和前 F 蛋白联合疫苗接种可调节攻击后平衡效应 CD8 T 细胞反应。这项研究支持这样的观点，即前 F mRNA 和前 F 蛋白疫苗相结合将比单独使用 mRNA 或蛋白疫苗提供更有效的体液和平衡的细胞免疫。
 
 ---
-### [Triple-remodeling of tumor microenvironment through hyaluronidase-assisted folate-targeted lipid nanoparticle-mediated siVEGF/siPD-L1 for enhanced tumor immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41521331/)
-- **期刊**: *Journal of translational medicine* | IF: -
+### [Tweaking lentiviral vector design balances efficacy and safety in liver-directed gene therapy for familial hypercholesterolemia.](https://pubmed.ncbi.nlm.nih.gov/41449803/)
+- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | IF: -
 - **核心结论**: 
-> 该FA-LNP递送系统有望提供更安全、更有效的肿瘤治疗策略，促进个性化肿瘤治疗的发展。在线版本包含可在 10.1186/s12967-026-07697-y 获取的补充材料。
+> 我们在两个 FH 小鼠模型中实现了循环 LDL 胆固醇的正常化，并预防了动脉粥样硬化，即使在高脂肪饮食挑战下也是如此，并且没有任何长期的肝脏致瘤性。总体而言，我们对 FH 体内基因治疗的有效性和安全性进行了深入评估，为作用机制和潜在脆弱性提供了新的见解，对降脂基因疗法的未来发展具有影响。
 
 ---
-### [Proteomic analysis of differential biological responses and fatty acid metabolism in slow-growing chickens fed dietary tuna oil directly or via glucose transporter-targeted nanoparticles.](https://pubmed.ncbi.nlm.nih.gov/41518903/)
-- **期刊**: *Poultry science* | IF: -
+### [Potent and Long-Lasting Immunogenicity Generated by LNP-mRNA gE Antigen Against Varicella Zoster Virus via an AI-Assisted Pipeline.](https://pubmed.ncbi.nlm.nih.gov/41449740/)
+- **期刊**: *Advanced science (Weinheim, Baden-Wurttemberg, Germany)* | IF: -
 - **核心结论**: 
-> 尽管 TNP 组的免疫反应不太明显，但通过选择性蛋白表达维持免疫监视。总体而言，这些发现证明了 PC 和 TNP 治疗之间针对氧化应激和免疫挑战的不同细胞策略，凸显了脂质纳米颗粒系统优化家禽膳食脂质输送的潜力。
+> CD4<sup>+</sup> T 细胞反应对于 VZV 再激活保护至关重要，与 Shingrix 相比，VZV-gEmD 的 CD4<sup>+</sup> T 细胞反应明显更强、更持久。这些发现凸显了其作为带状疱疹病毒有效预防性疫苗的潜力，并为在带状疱疹病毒疫苗开发中利用该 mRNA 平台提供了信心。
 
 ---
-### [From Ablation to Neuromodulation Platform: The Evolving Role of Magnetic Resonance-Guided Focused Ultrasound in Functional Neurosurgery.](https://pubmed.ncbi.nlm.nih.gov/41517810/)
-- **期刊**: *Journal of clinical neurology (Seoul, Korea)* | IF: -
+### [Synthesis of mRNA lipid nanoparticles for engineering GD2 CAR T and CAR NK cells against neuroblastoma.](https://pubmed.ncbi.nlm.nih.gov/41446149/)
+- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
 - **核心结论**: 
-> 新兴的创新——例如双靶点策略、分阶段双边手术、自适应聚焦技术以及与免疫或基因疗法的整合——正在扩大其治疗潜力。总的来说，这些进展使 MRgFUS 不仅成为一种消融工具，而且成为一个变革性的神经调节平台，对运动障碍、神经精神疾病和神经退行性疾病的治疗具有广泛的影响。
+> GD2 CAR T 或 CAR NK 细胞可以以剂量依赖性方式有效靶向并杀死神经母细胞瘤细胞，并且 GD2 CAR T 细胞显示出 IFNγ 产量增加。这项研究表明，mRNA LNP 是一种很有前途的非病毒方法，用于生成 GD2 CAR T 和 CAR NK 细胞，有可能为当前基于病毒载体的方法提供更安全、更具成本效益的替代方案。
 
 ---
-### [A High-Multiplicity Baculovirus Method Enables Efficient Gene Delivery to Diverse Mammalian Cells In Vitro and to Multiple Organs In Vivo.](https://pubmed.ncbi.nlm.nih.gov/41516264/)
-- **期刊**: *International journal of molecular sciences* | IF: -
+### [Lipid nanoparticle mediated delivery of Anti-CD19 CAR mRNA to umbilical blood cord NK cells for targeting CD19⁺ primary B-ALL cells.](https://pubmed.ncbi.nlm.nih.gov/41422708/)
+- **期刊**: *Current research in translational medicine* | IF: -
 - **核心结论**: 
-> 这些结果表明，高 MOI 杆状病毒感染可以作为一种非常有效和通用的平台，用于在不同哺乳动物细胞类型以及动物模型中的各种器官和神经组织中进行基因传递。这种强大的方法可能为未来的基因治疗应用带来重大希望。
+> 尽管如此，通过该 mRNA-LNP 平台生成的 CAR-NK 细胞对 CD19<sup>+</sup> 靶细胞（例如 EGFP<sup>+</sup>Raji 稳定细胞系和源自难治性/复发性 B 细胞急性淋巴细胞白血病 (B-ALL) 患者的原发性恶性 B 细胞）表现出显着增强的细胞毒性。这些发现凸显了 mRNA-LNP 平台在推进针对 B 细胞恶性肿瘤的 CAR-NK 疗法方面的前景。
 
 ---
-### [A Longitudinal 3D Live-Cell Imaging Platform to Uncover AAV Vector-Host Dynamics at Single-Cell Resolution.](https://pubmed.ncbi.nlm.nih.gov/41516112/)
-- **期刊**: *International journal of molecular sciences* | IF: -
+### [Autologous, allogeneic, in vivo CAR for autoimmune diseases.](https://pubmed.ncbi.nlm.nih.gov/41298149/)
+- **期刊**: *Trends in pharmacological sciences* | IF: -
 - **核心结论**: 
-> 通过发现 rAAV 转导的新瓶颈，该平台提供了改进基于 AAV 的基因治疗的机制见解和潜在策略。其通用设计进一步支持对其他无包膜病毒的广泛适用性。
+> 系统性红斑狼疮 (SLE) 的早期临床研究显示，使用自体、同种异体和体内 CAR T 细胞 (CAR-T) 策略取得了令人鼓舞的结果。本论坛对这三种策略进行了比较，重点介绍了临床设计、安全性和有效性，并探讨了 AD 中体内 CAR 工程的转化挑战。
 
 ---
-### [The Toxic Effect and Mechanism of TMZ Combined with siHOXB9 on Glioblastoma Cells.](https://pubmed.ncbi.nlm.nih.gov/41515958/)
-- **期刊**: *International journal of molecular sciences* | IF: -
+### [Optimized Lentiviral Vector Production Using Dual-Pseudotyping with VSV-G and Sendai Virus HN Glycoproteins for Enhanced Gene Delivery in Diverse Cell Types.](https://pubmed.ncbi.nlm.nih.gov/41273640/)
+- **期刊**: *Methods in molecular biology (Clifton, N.J.)* | IF: -
 - **核心结论**: 
-> 蛋白质组学分析表明，TMZ-A2SLN 可能参与神经胶质瘤细胞治疗过程中的促炎信号级联、肿瘤迁移、侵袭和血管生成。此外，<i>HOXB9</i>可能在胶质瘤细胞治疗过程中的PPAR信号通路、神经信号通路、磷脂酶D信号通路、IL-17信号通路、矿物质吸收等通路中发挥重要的调节作用。
+> 仙台病毒血凝素神经氨酸酶糖蛋白识别宿主细胞质膜上的末端唾液酸，促进病毒进入。在这里，我们描述了使用 VSV-G 和仙台病毒血凝素-神经氨酸酶进行慢病毒双假型分析以扩大病毒趋向性的方法。
+
+---
+### [Stereotaxic Injection of Lentiviral Vectors into the Primate Brain.](https://pubmed.ncbi.nlm.nih.gov/41273639/)
+- **期刊**: *Methods in molecular biology (Clifton, N.J.)* | IF: -
+- **核心结论**: 
+> 此外，通过慢病毒载体的半永久性基因表达对于转化基因治疗研究来说是一个有吸引力的特征。本章将概述慢病毒载体立体定位注射到灵长类动物大脑中，主要用于神经网络分析。
+
+---
+### [Properties and Application of Pseudotyped Lentiviral Vectors.](https://pubmed.ncbi.nlm.nih.gov/41273636/)
+- **期刊**: *Methods in molecular biology (Clifton, N.J.)* | IF: -
+- **核心结论**: 
+> 慢病毒载体策略为特定神经通路的遗传操作提供了有用的方法，以阐明神经回路的结构和功能，也为神经系统发育和生存中关键分子和基因调控元件的全基因组筛选提供了有用的方法。这种策略还为针对神经系统和神经退行性疾病以及中枢神经系统肿瘤的基因治疗的临床应用提供了强大的工具。
+
+---
+### [Lentiviral-mediated panErbB CAR-T cell therapy against head and neck squamous cell carcinomas for patients with Fanconi anemia.](https://pubmed.ncbi.nlm.nih.gov/41141364/)
+- **期刊**: *Molecular therapy. Oncology* | IF: -
+- **核心结论**: 
+> 此外，在 HNSCC 异种移植物中瘤内施用这些 CAR-T 细胞可显着减少肿瘤生长。这些临床前结果表明，panErbB CAR-T 细胞将代表一种安全、无基因毒性的 HNSCC 疗法，特别适用于 FA 患者。
+
+---
+### [Lipid nanoparticles for engineering next generation CAR T cell immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41114533/)
+- **期刊**: *Nanoscale horizons* | IF: -
+- **核心结论**: 
+> 描述了每种生产方法的最新创新，特别强调了 LNP 可以实现<i>体内</i> CAR T 细胞生产的方式。该综述最后讨论了安全性、免疫原性、可扩展性、制造和监管因素，这些因素对于基于 LNP 的 CAR T 细胞免疫疗法走向临床转化至关重要。
+
+---
+### [Assessment of Potential Side Effects Related To RAB27A Gene Therapy in Stem Cells.](https://pubmed.ncbi.nlm.nih.gov/41075149/)
+- **期刊**: *Stem cell reviews and reports* | IF: -
+- **核心结论**: 
+> 尽管移植前HSPC中RAB27A高表达，但外周血、骨髓和脾细胞中RAB27A水平仍然较低，表明RAB27A的过度表达可能影响了长期重建潜力。 GS-2 基因疗法的开发可能需要对 RAB27A 表达进行微调，但不太可能因 RAB27A 诱导的肿瘤发生而变得复杂。
+
+---
+### [Haematopoietic gene therapy of non-conditioned patients with Fanconi anaemia-A: results from open-label phase 1/2 (FANCOLEN-1) and long-term clinical trials.](https://pubmed.ncbi.nlm.nih.gov/39642902/)
+- **期刊**: *Lancet (London, England)* | IF: -
+- **核心结论**: 
+> 这些结果首次表明，不进行基因毒性调节的造血基因治疗能够持续植入并逆转范可尼贫血患者的 BMF 进展。欧盟委员会、卡洛斯三世健康研究所和 Rocket Pharmaceuticals..
 
 ---
