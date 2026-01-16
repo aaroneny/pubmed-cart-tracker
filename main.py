@@ -3,134 +3,172 @@ from Bio import Entrez
 import datetime
 from deep_translator import GoogleTranslator
 
-# --- 配置区域 ---
-# 请务必替换为你自己的邮箱，这是 PubMed (NCBI) 的要求，否则可能被封 IP
-Entrez.email = "dlu_fangenyue@163.com"  
-KEYWORDS = '"In vivo CAR-T"[Title/Abstract]'
+# --- 1. 基础配置 ---
+# 请替换为你自己的邮箱
+Entrez.email = "dlu_fangenyue@163.com"
+
+# --- 2. 关键词升级 (涵盖 In vivo CAR-T, mRNA-LNP, 慢病毒) ---
+# 使用 OR 逻辑连接不同领域，确保全面覆盖
+KEYWORDS = """
+("In vivo CAR-T"[Title/Abstract] OR "In situ CAR-T"[Title/Abstract] 
+OR "mRNA-LNP"[Title/Abstract] OR "Lipid nanoparticle"[Title/Abstract]
+OR "Lentiviral vector"[Title/Abstract] OR "Lentivirus packaging"[Title/Abstract] 
+OR "Gene delivery"[Title/Abstract])
+"""
+
+# --- 3. 内置期刊影响因子字典 (针对生物/医学领域) ---
+# 注意：这是手动维护的列表，无法覆盖所有冷门期刊
+JOURNAL_IFS = {
+    "Nature": "64.8", "Science": "56.9", "Cell": "64.5",
+    "Nature Medicine": "58.7", "New England Journal of Medicine": "96.2",
+    "The Lancet": "98.4", "Nature Biotechnology": "46.9",
+    "Nature Biomedical Engineering": "28.1", "Molecular Therapy": "12.4",
+    "Blood": "20.3", "Circulation": "37.8", "Signal Transduction and Targeted Therapy": "40.8",
+    "Cell Research": "44.1", "Molecular Cancer": "37.3",
+    "Nature Communications": "16.6", "Science Advances": "13.6",
+    "Advanced Materials": "29.4", "ACS Nano": "17.1",
+    "Nano Letters": "10.8", "Biomaterials": "14.0",
+    "Journal of Controlled Release": "10.8", "Small": "13.3",
+    "Bioactive Materials": "18.9", "Nucleic Acids Research": "14.9",
+    "Molecular Therapy - Nucleic Acids": "8.8",
+    "Journal of Extracellular Vesicles": "16.0", "Gastroenterology": "29.4",
+    "Gut": "24.5", "Hepatology": "13.5", "Journal of Hepatology": "25.7",
+    "Cancer Discovery": "28.2", "Cancer Cell": "50.3",
+    "Clinical Cancer Research": "11.5", "Journal of Clinical Oncology": "45.3",
+    "Immunity": "32.4", "Science Immunology": "24.8",
+    "Nature Immunology": "30.5", "Frontiers in Immunology": "7.3",
+    "Journal of Virology": "5.4", "Virology": "3.5",
+    "Gene Therapy": "4.5", "Human Gene Therapy": "4.2",
+    "Stem Cell Reports": "5.9", "Cell Stem Cell": "23.9",
+    "PNAS": "11.1", "Proceedings of the National Academy of Sciences": "11.1",
+    "eLife": "7.7", "Scientific Reports": "3.8", "PLoS One": "2.9"
+}
+
+def get_impact_factor(journal_name):
+    """
+    尝试从字典中匹配 IF
+    """
+    # 1. 精确匹配
+    if journal_name in JOURNAL_IFS:
+        return JOURNAL_IFS[journal_name]
+    
+    # 2. 忽略大小写匹配
+    for key, value in JOURNAL_IFS.items():
+        if key.lower() == journal_name.lower():
+            return value
+            
+    # 3. 模糊匹配 (比如包含关系)
+    # 风险：可能匹配错，比如 "Nature" 匹配到 "Nature Reports"
+    # 这里保守一点，只处理完全包含且长度接近的情况
+    for key, value in JOURNAL_IFS.items():
+        if key in journal_name and len(journal_name) < len(key) + 10:
+             return value
+             
+    return "N/A" # 未找到
 
 def translate_to_chinese(text):
-    """
-    使用免费接口将英文翻译成中文
-    """
+    """使用 Google Translate 免费接口"""
     try:
-        # 使用 Google Translate 免费接口 (Github Actions 服务器通常可以直接访问)
         translator = GoogleTranslator(source='auto', target='zh-CN')
         return translator.translate(text)
-    except Exception as e:
-        print(f"翻译失败: {e}")
-        return text  # 翻译失败则返回原文，保证程序不崩
+    except Exception:
+        return text
 
 def extract_conclusion(abstract_text):
-    """
-    逻辑：
-    1. 尝试寻找 'Conclusion' 或 'Discussion' 等关键词，提取其后的内容。
-    2. 如果找不到，简单粗暴地提取摘要的最后两句话。
-    """
-    if not abstract_text:
-        return "暂无摘要"
-
+    """提取摘要结论部分"""
+    if not abstract_text: return "暂无摘要"
     text = abstract_text.strip()
     upper_text = text.upper()
     
-    # 策略A：寻找明确的结构标签
-    # 很多医学论文摘要最后会写 "CONCLUSIONS: ..."
+    # 策略A：找标签
     for keyword in ["CONCLUSION:", "CONCLUSIONS:", "DISCUSSION:"]:
         if keyword in upper_text:
-            # 从关键词位置往后截取
             index = upper_text.rfind(keyword)
-            # 截取掉 "CONCLUSION:" 本身
-            content = text[index + len(keyword):].strip()
-            if content: 
-                return content
+            return text[index + len(keyword):].strip()
 
-    # 策略B：没有标签，提取最后两句
-    sentences = text.split('. ')
-    # 过滤掉空字符串
-    sentences = [s for s in sentences if s.strip()]
-    
+    # 策略B：取最后两句
+    sentences = [s.strip() for s in text.split('. ') if s.strip()]
     if len(sentences) >= 2:
-        # 取最后两句，并补上句号
         return ". ".join(sentences[-2:]) + "."
     elif len(sentences) == 1:
         return sentences[0] + "."
-    
     return text
 
 def fetch_papers():
-    # 获取今天的日期
     today = datetime.date.today()
-    print(f"开始执行... 日期: {today}")
+    print(f"[{today}] 开始搜索过去 30 天关于 In vivo CAR-T/mRNA-LNP/Lentivirus 的文献...")
     
-    # 搜索过去 7 天的文章
     try:
-        handle = Entrez.esearch(db="pubmed", term=KEYWORDS, reldate=7, datetype="pdat", retmax=10)
+        # 修改点：reldate=30 (过去30天)
+        handle = Entrez.esearch(db="pubmed", term=KEYWORDS, reldate=30, datetype="pdat", retmax=20)
         record = Entrez.read(handle)
         id_list = record["IdList"]
     except Exception as e:
-        print(f"搜索 PubMed 出错: {e}")
+        print(f"搜索出错: {e}")
         return []
     
     papers = []
     if id_list:
         try:
-            # 获取详细信息
             handle = Entrez.efetch(db="pubmed", id=id_list, retmode="xml")
             records = Entrez.read(handle)
             
             for article in records['PubmedArticle']:
                 try:
-                    # 1. 标题
                     title = article['MedlineCitation']['Article']['ArticleTitle']
-                    
-                    # 2. 期刊
                     journal = article['MedlineCitation']['Article']['Journal']['Title']
                     
-                    # 3. 摘要处理
+                    # 获取并计算 IF
+                    if_score = get_impact_factor(journal)
+                    
+                    # 摘要处理
                     abstract_list = article['MedlineCitation']['Article'].get('Abstract', {}).get('AbstractText', [])
-                    if isinstance(abstract_list, list):
-                        full_abstract = " ".join([str(x) for x in abstract_list])
-                    else:
-                        full_abstract = str(abstract_list)
+                    full_abstract = " ".join([str(x) for x in abstract_list]) if isinstance(abstract_list, list) else str(abstract_list)
 
-                    # --- 核心：提取结论 -> 翻译 ---
-                    print(f"处理文章: {title[:30]}...")
+                    print(f"处理: {title[:20]}... | IF: {if_score}")
+                    
+                    # 提取与翻译
                     conclusion_en = extract_conclusion(full_abstract)
                     highlight_cn = translate_to_chinese(conclusion_en)
 
-                    # 4. 链接
                     pmid = article['MedlineCitation']['PMID']
-                    link = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
                     
                     papers.append({
                         "title": title,
                         "journal": journal,
+                        "if": if_score, # 新增 IF 字段
                         "highlight": highlight_cn, 
-                        "link": link
+                        "link": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+                        "date": article['MedlineCitation']['Article']['Journal']['JournalIssue']['PubDate'].get('Year', '202X')
                     })
                 except Exception as e:
-                    print(f"跳过一篇文章 (解析错误): {e}")
                     continue
-        except Exception as e:
-            print(f"获取文章详情出错: {e}")
+        except Exception:
+            pass
 
+    # 按 IF 从高到低排序 (把重磅文章放前面)
+    # 将 'N/A' 视为 0 进行排序
+    papers.sort(key=lambda x: float(x['if']) if x['if'] != 'N/A' else 0, reverse=True)
+    
     return papers
 
 def update_readme(papers):
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')
     
-    # README 头部内容
-    content = f"# 🧬 In vivo CAR-T 每日追踪\n\n"
-    content += f"📅 **更新日期**: {current_date}\n\n"
-    content += f"> 💡 **说明**: 下方展示过去 7 天的新文献，内容为自动提取的中文版结论。\n\n"
+    content = f"# 🧬 Bio-Research Monthly Tracker\n\n"
+    content += f"**关注领域**: In vivo CAR-T | mRNA-LNP | Lentiviral Vectors\n\n"
+    content += f"📅 **更新日期**: {current_date} (过去 30 天文献，按 IF 排序)\n\n"
     content += "---\n\n"
     
     if not papers:
-        content += "📭 **过去 7 天未发现相关新文献。**\n"
+        content += "📭 **过去 30 天未发现相关新文献。**\n"
     
     for paper in papers:
-        content += f"### 📄 [{paper['title']}]({paper['link']})\n"
-        content += f"- **期刊**: *{paper['journal']}*\n"
-        # 这里用引用块展示翻译后的中文结论
+        # 只有当 IF 不是 N/A 时才显示火的图标
+        if_display = f"🔥 IF: **{paper['if']}**" if paper['if'] != "N/A" else "IF: -"
+        
+        content += f"### [{paper['title']}]({paper['link']})\n"
+        content += f"- **期刊**: *{paper['journal']}* | {if_display}\n"
         content += f"- **核心结论**: \n> {paper['highlight']}\n\n"
         content += "---\n"
         
@@ -140,4 +178,3 @@ def update_readme(papers):
 if __name__ == "__main__":
     papers = fetch_papers()
     update_readme(papers)
-    print("README 更新完成。")
