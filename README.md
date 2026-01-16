@@ -6,14 +6,20 @@
 
 ---
 
+### [Restoration of progranulin by engineered hematopoietic stem cell-derived microglia corrects phenotypes of granulin knockout mice.](https://pubmed.ncbi.nlm.nih.gov/41499526/)
+- **期刊**: *Science translational medicine* | 🔥 IF: **44.7**
+- **核心结论**: 
+> 使用任一启动子和给药途径均获得类似的治疗效果，特别是当表达PGRN的细胞及其MLC后代在脑室内移植后仅植入中枢神经系统（CNS）时也达到了类似的治疗效果。这些发现表明，中枢神经系统中 PGRN 表达的持久但适度的恢复足以纠正病理。
+
+---
 ### [Low reactogenicity and high tumour antigen expression from mRNA-LNPs with membrane-destabilizing zwitterionic lipids.](https://pubmed.ncbi.nlm.nih.gov/41413325/)
-- **期刊**: *Nature biomedical engineering* | 🔥 IF: **28.1**
+- **期刊**: *Nature biomedical engineering* | 🔥 IF: **26.8**
 - **核心结论**: 
 > 此外，这些膜不稳定的含两性离子脂质的纳米颗粒由于其两性离子特性而显示出减少注射部位的炎症和中性粒细胞浸润。这些脂质还与现有的靶向纳米颗粒配方兼容，进一步改善了 mRNA 的递送。
 
 ---
 ### [Intraperitoneal programming of tailored CAR macrophages via mRNA lipid nanoparticle to boost cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41444487/)
-- **期刊**: *Nature communications* | 🔥 IF: **16.6**
+- **期刊**: *Nature communications* | 🔥 IF: **14.7**
 - **核心结论**: 
 > 从机制上讲，CAR-Ms 维持促炎表型，并通过扰乱 NF-κB 通路同时上调 MHC-I 和 PD-L1。总的来说，这种方法能够对定制的 CAR-M 进行腹膜内编程，并扩大对针对实体瘤的 CAR-M 疗法的调节和反馈机制的理解。
 
@@ -28,12 +34,6 @@
 - **期刊**: *Journal for immunotherapy of cancer* | IF: -
 - **核心结论**: 
 > 在使用组成型 CAR T 细胞作为对照的小鼠模型中，HER2-MSLN-CBG svsNotch T 细胞在没有 HER2 的情况下表现出最小的细胞毒性，并且对 HER2<sup>low</sup>MSLN<sup>high</sup> 和 HER2<sup>high</sup>MSLN<sup>high</sup> 肿瘤具有优异的疗效。这些数据建立了一个工程逻辑门控单载体免疫疗法的框架，并提供了一个优化的工作流程，用于生成具有超出当前大小限制的转基因的 CAR T 细胞。
-
----
-### [Restoration of progranulin by engineered hematopoietic stem cell-derived microglia corrects phenotypes of granulin knockout mice.](https://pubmed.ncbi.nlm.nih.gov/41499526/)
-- **期刊**: *Science translational medicine* | IF: -
-- **核心结论**: 
-> 使用任一启动子和给药途径均获得类似的治疗效果，特别是当表达PGRN的细胞及其MLC后代在脑室内移植后仅植入中枢神经系统（CNS）时也达到了类似的治疗效果。这些发现表明，中枢神经系统中 PGRN 表达的持久但适度的恢复足以纠正病理。
 
 ---
 ### [Optimizing In Vivo CAR-T Cell Engineering for Cancer Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41490421/)
