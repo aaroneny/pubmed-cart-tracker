@@ -8,10 +8,6 @@ from deep_translator import GoogleTranslator
 Entrez.email = "dlu_fangenyue@163.com"
 
 # --- 2. 关键词策略优化 (High Precision) ---
-# 逻辑解释：
-# Group A: 直接命中 "In vivo CAR-T" 或 "In situ CAR-T"
-# Group B: "mRNA-LNP" 必须结合 "T cell" 或 "CAR" (排除新冠疫苗)
-# Group C: "Lentiviral vector" 必须结合 "CAR" 或 "Engineering" (排除基础病毒学)
 KEYWORDS = """
 (
   ("In vivo CAR-T"[Title/Abstract] OR "In situ CAR-T"[Title/Abstract])
@@ -25,7 +21,6 @@ KEYWORDS = """
 """
 
 # --- 3. 内置期刊影响因子字典 ---
-# 包含常见的生物医学、基因治疗、纳米材料期刊
 JOURNAL_IFS = {
     "Nature": "64.8", "Science": "56.9", "Cell": "64.5",
     "Nature Medicine": "58.7", "New England Journal of Medicine": "96.2",
@@ -82,19 +77,14 @@ def extract_conclusion(abstract_text):
 
 # --- 4. Python级二次相关性检查 ---
 def check_relevance(title, abstract):
-    """
-    检查标题和摘要是否包含核心关键词。
-    """
     text = (title + " " + abstract).lower()
     
-    # 白名单：必须包含至少一个
     must_have = [
         "car-t", "chimeric antigen", "t cell", "t-cell", "immunotherapy",
         "tumor", "cancer", "oncology", "malignan", 
         "gene edit", "crispr", "transduction", "payload"
     ]
     
-    # 黑名单：如果是新冠文章且没提癌症，丢弃
     black_list = ["sars-cov-2", "covid-19", "coronavirus"]
     
     has_blacklist = any(word in text for word in black_list)
@@ -113,7 +103,6 @@ def fetch_papers():
     print(f"[{today}] 启动高精度搜索 (过去 30 天)...")
     
     try:
-        # 扩大初筛范围到 30 篇
         handle = Entrez.esearch(db="pubmed", term=KEYWORDS, reldate=30, datetype="pdat", retmax=30)
         record = Entrez.read(handle)
         id_list = record["IdList"]
@@ -134,7 +123,6 @@ def fetch_papers():
                     abstract_list = article['MedlineCitation']['Article'].get('Abstract', {}).get('AbstractText', [])
                     full_abstract = " ".join([str(x) for x in abstract_list]) if isinstance(abstract_list, list) else str(abstract_list)
                     
-                    # 二次过滤
                     if not check_relevance(title, full_abstract):
                         print(f"❌ 排除低相关文章: {title[:30]}...")
                         continue
@@ -158,7 +146,6 @@ def fetch_papers():
         except Exception:
             pass
 
-    # 排序：IF 高的排前面
     papers.sort(key=lambda x: float(x['if']) if x['if'] != 'N/A' else 0, reverse=True)
     return papers
 
@@ -175,4 +162,13 @@ def update_readme(papers):
     for paper in papers:
         if_display = f"🔥 IF: **{paper['if']}**" if paper['if'] != "N/A" else "IF: -"
         content += f"### [{paper['title']}]({paper['link']})\n"
-        content += f"- **期刊**: *{paper['journal']}* | {if_display}\n
+        content += f"- **期刊**: *{paper['journal']}* | {if_display}\n"
+        content += f"- **核心结论**: \n> {paper['highlight']}\n\n"
+        content += "---\n"
+        
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(content)
+
+if __name__ == "__main__":
+    papers = fetch_papers()
+    update_readme(papers)
