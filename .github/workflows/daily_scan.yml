@@ -1,43 +1,39 @@
-name: PubMed 每日爬虫
+name: Weekly Bio Tracker
 
-# 触发条件：
-# 1. 每天国际标准时间 0点 (北京时间早上8点)
-# 2. 允许手动点击按钮触发 (workflow_dispatch)
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    # 计划任务：北京时间每周五早上 8:00 运行
+    # (UTC 时间为每周五 00:00)
+    - cron: '0 0 * * 5'
+  workflow_dispatch: # 允许手动按钮触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
     permissions:
-      contents: write  # 重要！赋予写权限，否则无法更新 README
+      contents: write  # 必须给予写入权限，否则无法更新 README
 
     steps:
-      # 1. 下载仓库代码
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # 2. 安装 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      # 3. 安装依赖库 (biopython)
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 4. 运行我们的爬虫脚本
       - name: Run crawler script
         run: python main.py
 
-      # 5. 如果 README 有变化，提交保存
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "自动更新: PubMed 文献日报"
-          file_pattern: README.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # 只有当 README 有变化时才提交，避免报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Weekly update: $(date +'%Y-%m-%d')" && git push)
