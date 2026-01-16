@@ -1,6 +1,6 @@
 # 🧬 In vivo CAR-T 文献周报
 
-> 📅 更新日期: 2026-01-15 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
+> 📅 更新日期: 2026-01-16 | ⏱️ 统计范围: 过去 7 天 | 🔍 关键词: In vivo CAR-T
 
 ## 📘 最新综述 (Reviews) - 1 篇
 ---
@@ -8,8 +8,16 @@
 - 📚 **Journal for immunotherapy of cancer** | 🌟 **IF: 10.9**
 - **摘要**: Adoptive cell therapy (ACT) has demonstrated curative potential in select cancers, but its translation to solid tumors such as ovarian cancer (OC) has been hindered by multiple factors, including tumo...
 
-## 🔬 最新研究论文 (Articles) - 11 篇
+## 🔬 最新研究论文 (Articles) - 10 篇
 ---
+### [Non-viral TcBuster transposon engineering of CD70-CAR natural killer cells for the treatment of osteosarcoma.](https://pubmed.ncbi.nlm.nih.gov/41537165/)
+- 📚 **Molecular therapy. Oncology** | IF: N/A
+- **摘要**: Osteosarcoma (OSA) is the most common primary bone tumor in children and adolescents, yet outcomes have remained largely unchanged for over 40 years. While chimeric antigen receptor (CAR) T cell thera...
+
+### [Novel syngeneic model of anti-mouse CLDN18.2 CAR -T therapy for gastric cancer demonstrates a synergy with TGF-β and PD-L1 inhibitors.](https://pubmed.ncbi.nlm.nih.gov/41537163/)
+- 📚 **Molecular therapy. Oncology** | IF: N/A
+- **摘要**: There are very few syngeneic mouse cell line models available for gastric cancer owing to the rarity of stomach epithelium-specific promoter. Mouse cell line models are useful to study an immunologica...
+
 ### [A Murine Bispecific Antibody Efficiently Redirects T Cells Against Calr Mutated Stem Cells In Vivo.](https://pubmed.ncbi.nlm.nih.gov/41532194/)
 - 📚 **American journal of hematology** | 🌟 **IF: 12.8**
 - **摘要**: Calreticulin (CALR) mutations are prevalent in 20%-30% of patients with BCR::ABL1-negative myeloproliferative neoplasms (MPN). Mutant calreticulin (mutCALR), presented by the thrombopoietin receptor (...
@@ -41,16 +49,4 @@
 ### [Enhancement of B7-H3 chimeric antigen receptor-T cell efficacy via the coexistence effect of IL-7, IL-15 and CCL19 for pancreatic and lung xenograft tumors.](https://pubmed.ncbi.nlm.nih.gov/41500474/)
 - 📚 **Biochemical pharmacology** | IF: N/A
 - **摘要**: In current clinical applications, there are challenges with using chimeric antigen receptor (CAR)-T cells to effectively treat solid tumors. These challenges include promoting the infiltration and pro...
-
-### [The LXRβ/NF-κB axis reprograms CAR-T cells to resist exhaustion in the tumor microenvironment.](https://pubmed.ncbi.nlm.nih.gov/41496523/)
-- 📚 **Oncoimmunology** | IF: 7.2
-- **摘要**: Liver X receptor β (LXRβ) is a key transcription factor involved in lipid metabolism and immune regulation, yet its functional role in tumor-infiltrating T cells remains largely unresolved. While LXRβ...
-
-### [In Vivo Generation and Manipulation of CAR-T-mimicking Cells via Magnetic Bispecific Nano-antibody for Solid Tumor Therapy.](https://pubmed.ncbi.nlm.nih.gov/41495981/)
-- 📚 **Advanced materials (Deerfield Beach, Fla.)** | IF: N/A
-- **摘要**: The therapeutic efficacy of chimeric antigen receptor (CAR)-T cell therapy in combating solid tumors remains constrained, primarily due to inadequate tumor infiltration and the immunosuppressive tumor...
-
-### [CAR-adapted PIK3CD base editing enhances T cell anti-tumor potency.](https://pubmed.ncbi.nlm.nih.gov/41495526/)
-- 📚 **Nature cancer** | 🔥 **IF: 23.5**
-- **摘要**: Insufficient functional T cell persistence impedes therapeutic success of chimeric antigen receptor (CAR) therapies. Here we performed a CAR-adapted base-editing screen of PIK3CD, a key regulator of T...
 
