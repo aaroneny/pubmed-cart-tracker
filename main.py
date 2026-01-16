@@ -4,20 +4,28 @@ import datetime
 from deep_translator import GoogleTranslator
 
 # --- 1. 基础配置 ---
-# 请替换为你自己的邮箱
+# 已替换为你提供的邮箱
 Entrez.email = "dlu_fangenyue@163.com"
 
-# --- 2. 关键词升级 (涵盖 In vivo CAR-T, mRNA-LNP, 慢病毒) ---
-# 使用 OR 逻辑连接不同领域，确保全面覆盖
+# --- 2. 关键词策略优化 (High Precision) ---
+# 逻辑解释：
+# Group A: 直接命中 "In vivo CAR-T" 或 "In situ CAR-T"
+# Group B: "mRNA-LNP" 必须结合 "T cell" 或 "CAR" (排除新冠疫苗)
+# Group C: "Lentiviral vector" 必须结合 "CAR" 或 "Engineering" (排除基础病毒学)
 KEYWORDS = """
-("In vivo CAR-T"[Title/Abstract] OR "In situ CAR-T"[Title/Abstract] 
-OR "mRNA-LNP"[Title/Abstract] OR "Lipid nanoparticle"[Title/Abstract]
-OR "Lentiviral vector"[Title/Abstract] OR "Lentivirus packaging"[Title/Abstract] 
-OR "Gene delivery"[Title/Abstract])
+(
+  ("In vivo CAR-T"[Title/Abstract] OR "In situ CAR-T"[Title/Abstract])
+  OR
+  ("mRNA-LNP"[Title/Abstract] AND ("T cell"[Title/Abstract] OR "CAR"[Title/Abstract] OR "Immunotherapy"[Title/Abstract]))
+  OR
+  ("Lentiviral vector"[Title/Abstract] AND ("CAR"[Title/Abstract] OR "Gene therapy"[Title/Abstract] OR "Transduction efficiency"[Title/Abstract]))
+  OR
+  ("In vivo gene delivery"[Title/Abstract] AND "T cell"[Title/Abstract])
+)
 """
 
-# --- 3. 内置期刊影响因子字典 (针对生物/医学领域) ---
-# 注意：这是手动维护的列表，无法覆盖所有冷门期刊
+# --- 3. 内置期刊影响因子字典 ---
+# 包含常见的生物医学、基因治疗、纳米材料期刊
 JOURNAL_IFS = {
     "Nature": "64.8", "Science": "56.9", "Cell": "64.5",
     "Nature Medicine": "58.7", "New England Journal of Medicine": "96.2",
@@ -45,29 +53,14 @@ JOURNAL_IFS = {
 }
 
 def get_impact_factor(journal_name):
-    """
-    尝试从字典中匹配 IF
-    """
-    # 1. 精确匹配
-    if journal_name in JOURNAL_IFS:
-        return JOURNAL_IFS[journal_name]
-    
-    # 2. 忽略大小写匹配
+    if journal_name in JOURNAL_IFS: return JOURNAL_IFS[journal_name]
     for key, value in JOURNAL_IFS.items():
-        if key.lower() == journal_name.lower():
-            return value
-            
-    # 3. 模糊匹配 (比如包含关系)
-    # 风险：可能匹配错，比如 "Nature" 匹配到 "Nature Reports"
-    # 这里保守一点，只处理完全包含且长度接近的情况
+        if key.lower() == journal_name.lower(): return value
     for key, value in JOURNAL_IFS.items():
-        if key in journal_name and len(journal_name) < len(key) + 10:
-             return value
-             
-    return "N/A" # 未找到
+        if key in journal_name and len(journal_name) < len(key) + 10: return value
+    return "N/A"
 
 def translate_to_chinese(text):
-    """使用 Google Translate 免费接口"""
     try:
         translator = GoogleTranslator(source='auto', target='zh-CN')
         return translator.translate(text)
@@ -75,32 +68,53 @@ def translate_to_chinese(text):
         return text
 
 def extract_conclusion(abstract_text):
-    """提取摘要结论部分"""
     if not abstract_text: return "暂无摘要"
     text = abstract_text.strip()
     upper_text = text.upper()
-    
-    # 策略A：找标签
     for keyword in ["CONCLUSION:", "CONCLUSIONS:", "DISCUSSION:"]:
         if keyword in upper_text:
             index = upper_text.rfind(keyword)
             return text[index + len(keyword):].strip()
-
-    # 策略B：取最后两句
     sentences = [s.strip() for s in text.split('. ') if s.strip()]
-    if len(sentences) >= 2:
-        return ". ".join(sentences[-2:]) + "."
-    elif len(sentences) == 1:
-        return sentences[0] + "."
+    if len(sentences) >= 2: return ". ".join(sentences[-2:]) + "."
+    elif len(sentences) == 1: return sentences[0] + "."
     return text
+
+# --- 4. Python级二次相关性检查 ---
+def check_relevance(title, abstract):
+    """
+    检查标题和摘要是否包含核心关键词。
+    """
+    text = (title + " " + abstract).lower()
+    
+    # 白名单：必须包含至少一个
+    must_have = [
+        "car-t", "chimeric antigen", "t cell", "t-cell", "immunotherapy",
+        "tumor", "cancer", "oncology", "malignan", 
+        "gene edit", "crispr", "transduction", "payload"
+    ]
+    
+    # 黑名单：如果是新冠文章且没提癌症，丢弃
+    black_list = ["sars-cov-2", "covid-19", "coronavirus"]
+    
+    has_blacklist = any(word in text for word in black_list)
+    has_cancer_context = any(w in text for w in ["cancer", "tumor", "oncology", "car"])
+    
+    if has_blacklist and not has_cancer_context:
+        return False
+
+    if any(word in text for word in must_have):
+        return True
+        
+    return False
 
 def fetch_papers():
     today = datetime.date.today()
-    print(f"[{today}] 开始搜索过去 30 天关于 In vivo CAR-T/mRNA-LNP/Lentivirus 的文献...")
+    print(f"[{today}] 启动高精度搜索 (过去 30 天)...")
     
     try:
-        # 修改点：reldate=30 (过去30天)
-        handle = Entrez.esearch(db="pubmed", term=KEYWORDS, reldate=30, datetype="pdat", retmax=20)
+        # 扩大初筛范围到 30 篇
+        handle = Entrez.esearch(db="pubmed", term=KEYWORDS, reldate=30, datetype="pdat", retmax=30)
         record = Entrez.read(handle)
         id_list = record["IdList"]
     except Exception as e:
@@ -117,64 +131,48 @@ def fetch_papers():
                 try:
                     title = article['MedlineCitation']['Article']['ArticleTitle']
                     journal = article['MedlineCitation']['Article']['Journal']['Title']
-                    
-                    # 获取并计算 IF
-                    if_score = get_impact_factor(journal)
-                    
-                    # 摘要处理
                     abstract_list = article['MedlineCitation']['Article'].get('Abstract', {}).get('AbstractText', [])
                     full_abstract = " ".join([str(x) for x in abstract_list]) if isinstance(abstract_list, list) else str(abstract_list)
-
-                    print(f"处理: {title[:20]}... | IF: {if_score}")
                     
-                    # 提取与翻译
+                    # 二次过滤
+                    if not check_relevance(title, full_abstract):
+                        print(f"❌ 排除低相关文章: {title[:30]}...")
+                        continue
+                        
+                    if_score = get_impact_factor(journal)
+                    print(f"✅ 命中: {title[:20]}... | IF: {if_score}")
+                    
                     conclusion_en = extract_conclusion(full_abstract)
                     highlight_cn = translate_to_chinese(conclusion_en)
-
                     pmid = article['MedlineCitation']['PMID']
                     
                     papers.append({
                         "title": title,
                         "journal": journal,
-                        "if": if_score, # 新增 IF 字段
+                        "if": if_score,
                         "highlight": highlight_cn, 
                         "link": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-                        "date": article['MedlineCitation']['Article']['Journal']['JournalIssue']['PubDate'].get('Year', '202X')
                     })
                 except Exception as e:
                     continue
         except Exception:
             pass
 
-    # 按 IF 从高到低排序 (把重磅文章放前面)
-    # 将 'N/A' 视为 0 进行排序
+    # 排序：IF 高的排前面
     papers.sort(key=lambda x: float(x['if']) if x['if'] != 'N/A' else 0, reverse=True)
-    
     return papers
 
 def update_readme(papers):
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')
-    
-    content = f"# 🧬 Bio-Research Monthly Tracker\n\n"
-    content += f"**关注领域**: In vivo CAR-T | mRNA-LNP | Lentiviral Vectors\n\n"
-    content += f"📅 **更新日期**: {current_date} (过去 30 天文献，按 IF 排序)\n\n"
+    content = f"# 🧬 In vivo CAR-T 精选追踪\n\n"
+    content += f"**聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering\n\n"
+    content += f"📅 **更新日期**: {current_date}\n\n"
     content += "---\n\n"
     
     if not papers:
-        content += "📭 **过去 30 天未发现相关新文献。**\n"
+        content += "📭 **过去 30 天未发现高相关度文献。**\n"
     
     for paper in papers:
-        # 只有当 IF 不是 N/A 时才显示火的图标
         if_display = f"🔥 IF: **{paper['if']}**" if paper['if'] != "N/A" else "IF: -"
-        
         content += f"### [{paper['title']}]({paper['link']})\n"
-        content += f"- **期刊**: *{paper['journal']}* | {if_display}\n"
-        content += f"- **核心结论**: \n> {paper['highlight']}\n\n"
-        content += "---\n"
-        
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(content)
-
-if __name__ == "__main__":
-    papers = fetch_papers()
-    update_readme(papers)
+        content += f"- **期刊**: *{paper['journal']}* | {if_display}\n
