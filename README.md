@@ -2,10 +2,18 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-01-16
+📅 **更新日期**: 2026-01-23
 
 ---
 
+### [Anti-FAP CAR T cells produced in vivo reduce fibrosis and restore liver homeostasis in metabolic dysfunction-associated steatohepatitis.](https://pubmed.ncbi.nlm.nih.gov/41564158/)
+- **期刊**: *Science translational medicine* | 🔥 IF: **44.7**
+- **发表日期**: 2026-Jan-21
+- **主要单位**: Division of Liver Diseases, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
+- **核心结论**: 
+> 他们还以非细胞自主方式调节免疫细胞、内皮细胞和肝细胞，以减轻炎症并恢复肝脏稳态。这些发现凸显了体内 CAR T 疗法在减轻高发病率和普遍性肝病方面的潜力，不仅可以直接减少纤维化，还可以通过对其他细胞类型的间接影响。
+
+---
 ### [Restoration of progranulin by engineered hematopoietic stem cell-derived microglia corrects phenotypes of granulin knockout mice.](https://pubmed.ncbi.nlm.nih.gov/41499526/)
 - **期刊**: *Science translational medicine* | 🔥 IF: **44.7**
 - **发表日期**: 2026-Jan-07
@@ -14,12 +22,12 @@
 > 使用任一启动子和给药途径均获得类似的治疗效果，特别是当表达PGRN的细胞及其MLC后代在脑室内移植后仅植入中枢神经系统（CNS）时也达到了类似的治疗效果。这些发现表明，中枢神经系统中 PGRN 表达的持久但适度的恢复足以纠正病理。
 
 ---
-### [Low reactogenicity and high tumour antigen expression from mRNA-LNPs with membrane-destabilizing zwitterionic lipids.](https://pubmed.ncbi.nlm.nih.gov/41413325/)
-- **期刊**: *Nature biomedical engineering* | 🔥 IF: **26.8**
-- **发表日期**: 2025-Dec-18
-- **主要单位**: Meinig School of Biomedical Engineering, Cornell University, Ithaca, NY, USA
+### [Optimal murine CD4<sup>+</sup> T cell priming by mRNA-lipid nanoparticle vaccines requires endogenous antigen processing.](https://pubmed.ncbi.nlm.nih.gov/41545353/)
+- **期刊**: *Nature communications* | 🔥 IF: **14.7**
+- **发表日期**: 2026-Jan-16
+- **主要单位**: Division of Rheumatology, Children's Hospital of Philadelphia, Philadelphia, PA, USA
 - **核心结论**: 
-> 此外，这些膜不稳定的含两性离子脂质的纳米颗粒由于其两性离子特性而显示出减少注射部位的炎症和中性粒细胞浸润。这些脂质还与现有的靶向纳米颗粒配方兼容，进一步改善了 mRNA 的递送。
+> 相比之下，从肌肉细胞中排除疫苗抗原对 CD4<sup>+</sup> T 细胞反应的影响最小。我们的研究结果表明，内源性抗原呈递对于 mRNA-LNP 疫苗诱导的免疫反应至关重要，并完善了 MHC II 限制性抗原加工和呈递的范式。
 
 ---
 ### [Intraperitoneal programming of tailored CAR macrophages via mRNA lipid nanoparticle to boost cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41444487/)
@@ -70,12 +78,20 @@
 > 我们在两个 FH 小鼠模型中实现了循环 LDL 胆固醇的正常化，并预防了动脉粥样硬化，即使在高脂肪饮食挑战下也是如此，并且没有任何长期的肝脏致瘤性。总体而言，我们对 FH 体内基因治疗的有效性和安全性进行了深入评估，为作用机制和潜在脆弱性提供了新的见解，对降脂基因疗法的未来发展具有影响。
 
 ---
+### [Engineering a fifth-generation CAR T cells to overcome PD-L1-mediated immunosuppression in lung cancer.](https://pubmed.ncbi.nlm.nih.gov/41548539/)
+- **期刊**: *Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie* | IF: -
+- **发表日期**: 2026-Jan-17
+- **主要单位**: Division of Transfusion science, Department of Medical Technology, Faculty of Associated Medical Sciences, Chiang Mai University, Chiang Mai 50200, Thailand
+- **核心结论**: 
+> 这种第五代 CAR 提供了一种有前景的策略，可以增强 CAR T 细胞在 PD-L1 介导的免疫抑制 TME 中的治疗效果。这些发现表明，抗 FRα-CAR5 T 细胞疗法值得进一步临床前验证，作为 NSCLC 患者的潜在治疗策略。
+
+---
 ### [Engineering single-vector logic-gated CAR T cells with transgene sizes beyond current limitations.](https://pubmed.ncbi.nlm.nih.gov/41513407/)
 - **期刊**: *Journal for immunotherapy of cancer* | IF: -
 - **发表日期**: 2026-Jan-09
 - **主要单位**: Center for Cellular Immunotherapies, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA prommel@pennmedicine
 - **核心结论**: 
-> 在使用组成型 CAR T 细胞作为对照的小鼠模型中，HER2-MSLN-CBG svsNotch T 细胞在没有 HER2 的情况下表现出最小的细胞毒性，并且对 HER2<sup>low</sup>MSLN<sup>high</sup> 和 HER2<sup>high</sup>MSLN<sup>high</sup> 肿瘤具有优异的疗效。这些数据建立了一个工程逻辑门控单载体免疫疗法的框架，并提供了一个优化的工作流程，用于生成具有超出当前大小限制的转基因的 CAR T 细胞。
+> 在使用组成型 CAR T 细胞作为对照的小鼠模型中，HER2-MSLN-CBG svsNotch T 细胞在没有 HER2 的情况下表现出最小的细胞毒性，并且对 HER2<sup>low</sup>MSLN<sup>high</sup> 和 HER2<sup>high</sup>MSLN<sup>high</sup> 肿瘤具有卓越的疗效。这些数据建立了一个工程逻辑门控单载体免疫疗法的框架，并提供了一个优化的工作流程，用于生成具有超出当前大小限制的转基因的 CAR T 细胞。
 
 ---
 ### [Chimeric antigen receptor dendritic cells suppress melanoma growth in preclinical cancer models.](https://pubmed.ncbi.nlm.nih.gov/41475842/)
@@ -92,22 +108,6 @@
 - **主要单位**: Beijing Youcare Kechuang Pharmaceutical Technology Co
 - **核心结论**: 
 > CD4<sup>+</sup> T 细胞反应对于 VZV 再激活保护至关重要，与 Shingrix 相比，VZV-gEmD 的 CD4<sup>+</sup> T 细胞反应明显更强、更持久。这些发现凸显了其作为带状疱疹病毒有效预防性疫苗的潜力，并为在带状疱疹病毒疫苗开发中利用该 mRNA 平台提供了信心。
-
----
-### [Synthesis of mRNA lipid nanoparticles for engineering GD2 CAR T and CAR NK cells against neuroblastoma.](https://pubmed.ncbi.nlm.nih.gov/41446149/)
-- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
-- **发表日期**: 2025-Dec-17
-- **主要单位**: 暂无单位信息
-- **核心结论**: 
-> GD2 CAR T 或 CAR NK 细胞可以以剂量依赖性方式有效靶向并杀死神经母细胞瘤细胞，并且 GD2 CAR T 细胞显示出 IFNγ 产量增加。这项研究表明，mRNA LNP 是一种很有前途的非病毒方法，用于生成 GD2 CAR T 和 CAR NK 细胞，有可能为当前基于病毒载体的方法提供更安全、更具成本效益的替代方案。
-
----
-### [Lipid nanoparticle mediated delivery of Anti-CD19 CAR mRNA to umbilical blood cord NK cells for targeting CD19⁺ primary B-ALL cells.](https://pubmed.ncbi.nlm.nih.gov/41422708/)
-- **期刊**: *Current research in translational medicine* | IF: -
-- **发表日期**: 2025-Dec-17
-- **主要单位**: ReNAP Therapeutics, Tehran, Iran
-- **核心结论**: 
-> 尽管如此，通过该 mRNA-LNP 平台生成的 CAR-NK 细胞对 CD19<sup>+</sup> 靶细胞（例如 EGFP<sup>+</sup>Raji 稳定细胞系和源自难治性/复发性 B 细胞急性淋巴细胞白血病 (B-ALL) 患者的原发性恶性 B 细胞）表现出显着增强的细胞毒性。这些发现凸显了 mRNA-LNP 平台在推进针对 B 细胞恶性肿瘤的 CAR-NK 疗法方面的前景。
 
 ---
 ### [Autologous, allogeneic, in vivo CAR for autoimmune diseases.](https://pubmed.ncbi.nlm.nih.gov/41298149/)
@@ -142,14 +142,6 @@
 > 慢病毒载体策略为特定神经通路的遗传操作提供了有用的方法，以阐明神经回路的结构和功能，也为神经系统发育和生存中关键分子和基因调控元件的全基因组筛选提供了有用的方法。这种策略还为针对神经系统和神经退行性疾病以及中枢神经系统肿瘤的基因治疗的临床应用提供了强大的工具。
 
 ---
-### [Lentiviral-mediated panErbB CAR-T cell therapy against head and neck squamous cell carcinomas for patients with Fanconi anemia.](https://pubmed.ncbi.nlm.nih.gov/41141364/)
-- **期刊**: *Molecular therapy. Oncology* | IF: -
-- **发表日期**: 2025-Dec-18
-- **主要单位**: Biomedical Innovation Unit, Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), Madrid, Spain
-- **核心结论**: 
-> 此外，在 HNSCC 异种移植物中瘤内施用这些 CAR-T 细胞可显着减少肿瘤生长。这些临床前结果表明，panErbB CAR-T 细胞将代表一种安全、无基因毒性的 HNSCC 疗法，特别适用于 FA 患者。
-
----
 ### [Lipid nanoparticles for engineering next generation CAR T cell immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41114533/)
 - **期刊**: *Nanoscale horizons* | IF: -
 - **发表日期**: 2026-Jan-05
@@ -164,13 +156,5 @@
 - **主要单位**: Department of Stem Cell Sciences, Graduate School of Health Sciences, Center for Stem Cell Research and Development (PEDİSTEM), Hacettepe University , Ankara, Turkey
 - **核心结论**: 
 > 尽管移植前HSPC中RAB27A高表达，但外周血、骨髓和脾细胞中RAB27A水平仍然较低，表明RAB27A的过度表达可能影响了长期重建潜力。 GS-2 基因疗法的开发可能需要对 RAB27A 表达进行微调，但不太可能因 RAB27A 诱导的肿瘤发生而变得复杂。
-
----
-### [Haematopoietic gene therapy of non-conditioned patients with Fanconi anaemia-A: results from open-label phase 1/2 (FANCOLEN-1) and long-term clinical trials.](https://pubmed.ncbi.nlm.nih.gov/39642902/)
-- **期刊**: *Lancet (London, England)* | IF: -
-- **发表日期**: 2025-Dec-21
-- **主要单位**: Biomedical Innovation Unit, Center for Research on Energy, Environment and Technology (CIEMAT), Madrid, Spain
-- **核心结论**: 
-> 这些结果首次表明，不进行基因毒性调节的造血基因治疗能够持续植入并逆转范可尼贫血患者的 BMF 进展。欧盟委员会、卡洛斯三世健康研究所和 Rocket Pharmaceuticals..
 
 ---
