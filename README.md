@@ -2,7 +2,7 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-01-23
+📅 **更新日期**: 2026-01-30
 
 ---
 
@@ -30,14 +30,6 @@
 > 相比之下，从肌肉细胞中排除疫苗抗原对 CD4<sup>+</sup> T 细胞反应的影响最小。我们的研究结果表明，内源性抗原呈递对于 mRNA-LNP 疫苗诱导的免疫反应至关重要，并完善了 MHC II 限制性抗原加工和呈递的范式。
 
 ---
-### [Intraperitoneal programming of tailored CAR macrophages via mRNA lipid nanoparticle to boost cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41444487/)
-- **期刊**: *Nature communications* | 🔥 IF: **14.7**
-- **发表日期**: 2025-Dec-24
-- **主要单位**: Zhejiang Cancer Hospital, The Key Laboratory of Zhejiang Province for Aptamers and Theranostics, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences, Hangzhou, China
-- **核心结论**: 
-> 从机制上讲，CAR-Ms 维持促炎表型，并通过扰乱 NF-κB 通路同时上调 MHC-I 和 PD-L1。总的来说，这种方法能够对定制的 CAR-M 进行腹膜内编程，并扩大对针对实体瘤的 CAR-M 疗法的调节和反馈机制的理解。
-
----
 ### [Optimizing In Vivo CAR-T Cell Engineering for Cancer Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41490421/)
 - **期刊**: *Cancer research* | 🔥 IF: **11.2**
 - **发表日期**: 2026-Jan-05
@@ -62,20 +54,36 @@
 > 在这里，我们表明，编码来自不同病毒谱系的 OROV 包膜糖蛋白的 mRNA-脂质纳米颗粒 (mRNA-LNP) 疫苗可引发强烈的抗体和 T 细胞反应，并在小鼠模型中提供强大的保护，包括对原型毒株和当前流行毒株的致命攻击的灭菌免疫。我们的数据表明，整合当代抗原序列可以增强交叉菌株保护，支持使用 mRNA-LNP 平台作为未来 OROV 爆发和相关新兴病原体的快速、适应性强的解决方案。
 
 ---
-### [A combination of new prefusion mRNA and protein vaccines enhances neutralizing antibodies and protection against respiratory syncytial virus.](https://pubmed.ncbi.nlm.nih.gov/41455187/)
-- **期刊**: *Vaccine* | 🔥 IF: **4.5**
-- **发表日期**: 2026-Feb-15
-- **主要单位**: Center for Inflammation, Immunity and Infection, Institute for Biomedical Sciences, Georgia State University, Atlanta, GA 30302, USA
+### [Therapeutic antibody delivery: vector tools to boost efficacy and affordability.](https://pubmed.ncbi.nlm.nih.gov/41573565/)
+- **期刊**: *Frontiers in immunology* | 🔥 IF: **5.7**
+- **发表日期**: 2025
+- **主要单位**: Institute of Experimental Hematology, Hannover Medical School, Hannover, Germany
 - **核心结论**: 
-> 前 F mRNA 和前 F 蛋白联合疫苗接种可调节攻击后平衡效应 CD8 T 细胞反应。这项研究支持这样的观点，即前 F mRNA 和前 F 蛋白疫苗相结合将比单独使用 mRNA 或蛋白疫苗提供更有效的体液和平衡的细胞免疫。
+> 因此，在这篇综述中，我们批判性地评估了如何利用这些已建立的和新兴的基因治疗平台来扩大可及性，并讨论了通过选择瞬时或稳定表达系统来提高抗体和其他治疗蛋白的功效来提高<i>原位</i>可用性的可能性。此外，我们探讨了当前的技术进步前景，确定了关键的转化挑战，并预测了优化这些方法以实现广泛适用的临床干预的未来方向。
 
 ---
-### [Tweaking lentiviral vector design balances efficacy and safety in liver-directed gene therapy for familial hypercholesterolemia.](https://pubmed.ncbi.nlm.nih.gov/41449803/)
-- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
-- **发表日期**: 2025-Dec-24
-- **主要单位**: San Raffaele Telethon Institute for Gene Therapy, IRCCS San Raffaele Scientific Institute, 20132 Milan, Italy
+### [Primary evaluation of immune responses in mice after a single mRNA immunization with Echinococcus granulosus Eg95 and Coenurus cerebralis TM16.](https://pubmed.ncbi.nlm.nih.gov/41570444/)
+- **期刊**: *Vaccine* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Jan-21
+- **主要单位**: State Key Laboratory of Animal Disease Control and Prevention, College of Veterinary Medicine, Lanzhou University, Key Laboratory of Veterinary Parasitology of Gansu Province, Lanzhou Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Lanzhou 730046, China
 - **核心结论**: 
-> 我们在两个 FH 小鼠模型中实现了循环 LDL 胆固醇的正常化，并预防了动脉粥样硬化，即使在高脂肪饮食挑战下也是如此，并且没有任何长期的肝脏致瘤性。总体而言，我们对 FH 体内基因治疗的有效性和安全性进行了深入评估，为作用机制和潜在脆弱性提供了新的见解，对降脂基因疗法的未来发展具有影响。
+> 与蛋白质疫苗相比，mRNA-LNP 疫苗在增强 IgG2a 水平和 CD8+ T 细胞反应方面表现出卓越的功效。这些结果表明Eg95-TM16 mRNA-LNP疫苗具有很强的免疫原性，并支持在绵羊和山羊等中间宿主中进一步评估。
+
+---
+### [Tropism Profiling of Lentiviral Vector Pseudotypes in Diverse Brain Tumor Models.](https://pubmed.ncbi.nlm.nih.gov/41599243/)
+- **期刊**: *Pharmaceutics* | IF: -
+- **发表日期**: 2026-Jan-22
+- **主要单位**: Department of Biomedicine, University of Bergen, 5009 Bergen, Norway
+- **核心结论**: 
+> VSV-GP 似乎最适合髓母细胞瘤和肺转移，FuG-B2 适合黑色素瘤转移，并且均适合 GBM 和 DIPG 基因治疗应用。该研究为将慢病毒基因治疗转化为临床应用提供了重要指导，支持基于肿瘤特异性载体趋向性特征的个性化治疗策略。
+
+---
+### [Transduction of Quiescent Human Hematopoietic Stem and Progenitor Cells Using Lentiviral Vectors and Virus-Like Particles.](https://pubmed.ncbi.nlm.nih.gov/41591869/)
+- **期刊**: *Current protocols* | IF: -
+- **发表日期**: 2026-Jan
+- **主要单位**: Dana-Farber/Boston Children's Cancer and Blood Disorders Center, Harvard Medical School, Boston, Massachusetts
+- **核心结论**: 
+> © 2026 Wiley 期刊有限责任公司。基本方案 1：生成 BaEVRLess 假型慢病毒载体 备用方案：生成 BaEVRLess 假型病毒样颗粒 支持方案：制备和测试用于 DNA 转染的聚乙烯亚胺溶液 基本方案 2：转导静态人 CD34<sup>+</sup> 造血干细胞和祖细胞。
 
 ---
 ### [Engineering a fifth-generation CAR T cells to overcome PD-L1-mediated immunosuppression in lung cancer.](https://pubmed.ncbi.nlm.nih.gov/41548539/)
@@ -83,7 +91,7 @@
 - **发表日期**: 2026-Jan-17
 - **主要单位**: Division of Transfusion science, Department of Medical Technology, Faculty of Associated Medical Sciences, Chiang Mai University, Chiang Mai 50200, Thailand
 - **核心结论**: 
-> 这种第五代 CAR 提供了一种有前景的策略，可以增强 CAR T 细胞在 PD-L1 介导的免疫抑制 TME 中的治疗效果。这些发现表明，抗 FRα-CAR5 T 细胞疗法值得进一步临床前验证，作为 NSCLC 患者的潜在治疗策略。
+> 这种第五代 CAR 提供了一种有前途的策略，可以增强 CAR T 细胞在 PD-L1 介导的免疫抑制 TME 中的治疗效果。这些发现表明，抗 FRα-CAR5 T 细胞疗法值得进一步临床前验证，作为 NSCLC 患者的潜在治疗策略。
 
 ---
 ### [Engineering single-vector logic-gated CAR T cells with transgene sizes beyond current limitations.](https://pubmed.ncbi.nlm.nih.gov/41513407/)
@@ -91,7 +99,7 @@
 - **发表日期**: 2026-Jan-09
 - **主要单位**: Center for Cellular Immunotherapies, University of Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA prommel@pennmedicine
 - **核心结论**: 
-> 在使用组成型 CAR T 细胞作为对照的小鼠模型中，HER2-MSLN-CBG svsNotch T 细胞在没有 HER2 的情况下表现出最小的细胞毒性，并且对 HER2<sup>low</sup>MSLN<sup>high</sup> 和 HER2<sup>high</sup>MSLN<sup>high</sup> 肿瘤具有卓越的疗效。这些数据建立了一个工程逻辑门控单载体免疫疗法的框架，并提供了一个优化的工作流程，用于生成具有超出当前大小限制的转基因的 CAR T 细胞。
+> 在使用组成型 CAR T 细胞作为对照的小鼠模型中，HER2-MSLN-CBG svsNotch T 细胞在没有 HER2 的情况下表现出最小的细胞毒性，并且对 HER2<sup>low</sup>MSLN<sup>high</sup> 和 HER2<sup>high</sup>MSLN<sup>high</sup> 肿瘤具有优异的疗效。这些数据建立了一个工程逻辑门控单载体免疫疗法的框架，并提供了一个优化的工作流程，用于生成具有超出当前大小限制的转基因的 CAR T 细胞。
 
 ---
 ### [Chimeric antigen receptor dendritic cells suppress melanoma growth in preclinical cancer models.](https://pubmed.ncbi.nlm.nih.gov/41475842/)
@@ -100,14 +108,6 @@
 - **主要单位**: Department of Microbiology, NYU Grossman School of Medicine, New York, New York, USA
 - **核心结论**: 
 > CAR-DCs可能是治疗实体瘤的有效策略，值得进一步探索。该方法依赖于 DC 的抗原呈递能力及其在 T 细胞激活中的作用，并且可以与检查点抑制相结合来代替单克隆抗体治疗。
-
----
-### [Potent and Long-Lasting Immunogenicity Generated by LNP-mRNA gE Antigen Against Varicella Zoster Virus via an AI-Assisted Pipeline.](https://pubmed.ncbi.nlm.nih.gov/41449740/)
-- **期刊**: *Advanced science (Weinheim, Baden-Wurttemberg, Germany)* | IF: -
-- **发表日期**: 2025-Dec-25
-- **主要单位**: Beijing Youcare Kechuang Pharmaceutical Technology Co
-- **核心结论**: 
-> CD4<sup>+</sup> T 细胞反应对于 VZV 再激活保护至关重要，与 Shingrix 相比，VZV-gEmD 的 CD4<sup>+</sup> T 细胞反应明显更强、更持久。这些发现凸显了其作为带状疱疹病毒有效预防性疫苗的潜力，并为在带状疱疹病毒疫苗开发中利用该 mRNA 平台提供了信心。
 
 ---
 ### [Autologous, allogeneic, in vivo CAR for autoimmune diseases.](https://pubmed.ncbi.nlm.nih.gov/41298149/)
