@@ -2,7 +2,7 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-02-20
+📅 **更新日期**: 2026-02-27
 
 ---
 
@@ -20,14 +20,6 @@
 - **主要单位**: National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China
 - **核心结论**: 
 > 暂无摘要
-
----
-### [Anti-FAP CAR T cells produced in vivo reduce fibrosis and restore liver homeostasis in metabolic dysfunction-associated steatohepatitis.](https://pubmed.ncbi.nlm.nih.gov/41564158/)
-- **期刊**: *Science translational medicine* | 🔥 IF: **44.7**
-- **发表日期**: 2026-Jan-21
-- **主要单位**: Division of Liver Diseases, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA
-- **核心结论**: 
-> 他们还以非细胞自主方式调节免疫细胞、内皮细胞和肝细胞，以减轻炎症并恢复肝脏稳态。这些发现凸显了体内 CAR T 疗法在减轻高发病率和普遍性肝病方面的潜力，不仅可以直接减少纤维化，还可以通过对其他细胞类型的间接影响。
 
 ---
 ### [In Vivo CAR T Cells Deliver Deep Responses in Myeloma.](https://pubmed.ncbi.nlm.nih.gov/41405215/)
@@ -56,7 +48,7 @@
 ---
 ### [Toward <i>In Vivo</i> CAR T Cell Therapy: Perfecting CAR and Lipid Nanoparticle Design.](https://pubmed.ncbi.nlm.nih.gov/41672452/)
 - **期刊**: *Nano letters* | 🔥 IF: **9.6**
-- **发表日期**: 2026-Feb-11
+- **发表日期**: 2026-Feb-25
 - **主要单位**: CDL Research, Division LAB, University Medical Center Utrecht, Heidelberglaan 100, 3584 CX Utrecht, The Netherlands
 - **核心结论**: 
 > 在这里，我们回顾了这种治疗策略的分子和机制原理，强调这些纳米级设计特征如何控制 CAR T 细胞的生产和体内功能表现。加深我们对这些参数的理解对于开发高效、安全且可临床转化的体内 CAR T 细胞癌症疗法至关重要。
@@ -68,14 +60,6 @@
 - **主要单位**: Department of Microbial Sciences in Health, Cleveland Clinic Research, Cleveland Clinic, Cleveland, Ohio, USA
 - **核心结论**: 
 > 在这里，我们表明，编码来自不同病毒谱系的 OROV 包膜糖蛋白的 mRNA-脂质纳米颗粒 (mRNA-LNP) 疫苗可引发强烈的抗体和 T 细胞反应，并在小鼠模型中提供强大的保护，包括对原型毒株和当前流行毒株的致命攻击的灭菌免疫。我们的数据表明，整合当代抗原序列可以增强交叉菌株保护，支持使用 mRNA-LNP 平台作为未来 OROV 爆发和相关新兴病原体的快速、适应性强的解决方案。
-
----
-### [Primary evaluation of immune responses in mice after a single mRNA immunization with Echinococcus granulosus Eg95 and Coenurus cerebralis TM16.](https://pubmed.ncbi.nlm.nih.gov/41570444/)
-- **期刊**: *Vaccine* | 🔥 IF: **4.5**
-- **发表日期**: 2026-Jan-21
-- **主要单位**: State Key Laboratory of Animal Disease Control and Prevention, College of Veterinary Medicine, Lanzhou University, Key Laboratory of Veterinary Parasitology of Gansu Province, Lanzhou Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Lanzhou 730046, China
-- **核心结论**: 
-> 与蛋白质疫苗相比，mRNA-LNP 疫苗在增强 IgG2a 水平和 CD8+ T 细胞反应方面表现出卓越的功效。这些结果表明Eg95-TM16 mRNA-LNP疫苗具有很强的免疫原性，并支持在绵羊和山羊等中间宿主中进一步评估。
 
 ---
 ### [A combination of new prefusion mRNA and protein vaccines enhances neutralizing antibodies and protection against respiratory syncytial virus.](https://pubmed.ncbi.nlm.nih.gov/41455187/)
@@ -92,6 +76,22 @@
 - **主要单位**: BioNTech-IMFS, Idar-Oberstein, Germany
 - **核心结论**: 
 > 在最初的放大实验中，可以实现生物反应器的多次收获，切向流过滤后滴度约为 8-9 × 10<sup>7</sup> TU/mL，总产量约为 2.3 × 10<sup>11</sup> TU。总之，基于 RMCE 的转移构建体的引入可以实现稳定、明确、可预测和安全的载体生产，适合临床应用。
+
+---
+### [Generation of CCR4/CD7 Bispecific CAR-T Cells Resistant to Fratricide and Exhaustion.](https://pubmed.ncbi.nlm.nih.gov/41742839/)
+- **期刊**: *Advanced science (Weinheim, Baden-Wurttemberg, Germany)* | IF: -
+- **发表日期**: 2026-Feb-26
+- **主要单位**: Department of Paediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, Hong Kong SAR, P
+- **核心结论**: 
+> 该细胞亚群表现出 Src/Ras/ERK 和 Bcl-2 通路的广泛激活、高水平的 SOS1 和 KLF2 表达以及肿瘤坏死因子超家族内的特异性配体-受体相互作用。总的来说，这些结果表明 CCR4/CD7 双特异性 CD7N CAR-T 细胞的进一步临床开发是必要的，包括具有 SOS1/KLF2 调节的 AQP3+ 子集。
+
+---
+### [Bioinformatic identification of lentivirus transfer plasmid contamination causing false-positive HIV NAT results in a high-throughput molecular screening laboratory.](https://pubmed.ncbi.nlm.nih.gov/41718474/)
+- **期刊**: *Microbiology spectrum* | IF: -
+- **发表日期**: 2026-Feb-20
+- **主要单位**: Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom
+- **核心结论**: 
+> 污染物的性质意味着捐赠者、接受者或工作人员不会面临任何风险。然而，它确实证明了质粒生产场所的设施设计和操作对于防止此类污染物的扩散并避免意外的下游后果（例如在筛选实验室中遇到的后果）至关重要。
 
 ---
 ### [Novel Lipid Nanoparticle (LNP) Delivery Systems Enabling the Advancement of RNA Therapeutics.](https://pubmed.ncbi.nlm.nih.gov/41709402/)
@@ -142,52 +142,12 @@
 > 这些发现扩展了之前的报告，描述了 AGT103-T 治疗参与者在分析治疗中断期间的积极免疫和病毒学结果。改良的完整原病毒 DNA 测定能够在慢病毒基因治疗的背景下准确测量完整的 HIV 病毒库，并支持 AGT103-T 的持续临床评估。
 
 ---
-### [Efficient Production of Chimeric Antigen Receptor (CAR) T Cells with Transgenes Exceeding 10 kb Using Lentiviral Vectors.](https://pubmed.ncbi.nlm.nih.gov/41662206/)
-- **期刊**: *Journal of visualized experiments : JoVE* | IF: -
-- **发表日期**: 2026-Jan-23
-- **主要单位**: Center for Cellular Immunotherapies, Perelman School of Medicine, University of Pennsylvania
-- **核心结论**: 
-> 重要的是，该工作流程支持稳健的 T 细胞扩增，并且无需细胞分选。通过克服目前慢病毒基因转移的大小限制，该工作流程能够有效生成多受体 CAR T 细胞，从而促进先进免疫疗法的开发。
-
----
-### [Rapid receptor internalization potentiates CD7-targeted lipid nanoparticles for efficient mRNA delivery to T cells and <i>in vivo</i> CAR T-cell engineering.](https://pubmed.ncbi.nlm.nih.gov/41659486/)
-- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
-- **发表日期**: 2026-Jan-26
-- **主要单位**: Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA
-- **核心结论**: 
-> 机制分析表明，受体内化而不是受体丰度是递送效率的主要决定因素，这是每个受体固有的特性，并且很大程度上独立于抗体克隆。这些发现为选择最佳靶向部分提供了合理的框架，以实现高效的<i>体内</i> CAR T 细胞工程。
-
----
-### [Rapid Assessment of Immune Effector Cell-mediated Cytotoxicity using mRNA Lipid Nanoparticles.](https://pubmed.ncbi.nlm.nih.gov/41659474/)
-- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
-- **发表日期**: 2026-Jan-26
-- **主要单位**: 暂无单位信息
-- **核心结论**: 
-> 使用 mRNA-LNP 转染细胞获得的细胞毒性结果与使用具有稳定报告基因表达的细胞系获得的结果高度一致且可比较。最后，我们强调 mRNA-LNP 方法在多种肿瘤模型（包括原发性肿瘤衍生模型）中的兼容性，从而能够快速、高通量地评估各种细胞毒性治疗细胞的效力。
-
----
-### [Polymer-lipid hybrid nanoparticle enhances mRNA delivery and T cell-mediated immunity.](https://pubmed.ncbi.nlm.nih.gov/41648598/)
-- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
-- **发表日期**: 2026-Jan-24
-- **主要单位**: Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL 60637, USA
-- **核心结论**: 
-> 作为黑色素瘤模型的一种治疗方法，与基于 LNP 的制剂相比，mRNA PLNP 疫苗接种可增强肿瘤控制并显着延长生存期。总的来说，这些结果使 PLNP 成为一个多功能且广泛适用的平台，通过改进 mRNA 递送和 T 细胞启动来增强 mRNA 疫苗功效，为感染预防和癌症免疫治疗提供有希望的影响。
-
----
 ### [CD3ɛ Nanobody-Engineered Extracellular Vesicles Driving In Vivo Generation of BiTE-Secreting CAR-Ts for Solid Tumor Therapy With Memory Response and Minimal Immunogenicity.](https://pubmed.ncbi.nlm.nih.gov/41632088/)
 - **期刊**: *Advanced science (Weinheim, Baden-Wurttemberg, Germany)* | IF: -
 - **发表日期**: 2026-Feb-03
 - **主要单位**: Translational Cell Therapy Center, Department of Medical Research, China Medical University Hospital, Taichung, Taiwan
 - **核心结论**: 
 > 值得注意的是，与脂质载体和慢病毒载体相比，CD3ε-Nb EV 表现出最小的免疫原性风险，尽管它们具有相当的抗肿瘤活性。总而言之，靶向 CD3 的 EV 可以驱动体内生成双特异性 CAR-T 细胞，以最小的免疫原性有效消除癌症并改善记忆反应。
-
----
-### [Tropism Profiling of Lentiviral Vector Pseudotypes in Diverse Brain Tumor Models.](https://pubmed.ncbi.nlm.nih.gov/41599243/)
-- **期刊**: *Pharmaceutics* | IF: -
-- **发表日期**: 2026-Jan-22
-- **主要单位**: Department of Biomedicine, University of Bergen, 5009 Bergen, Norway
-- **核心结论**: 
-> VSV-GP 似乎最适合髓母细胞瘤和肺转移，FuG-B2 适合黑色素瘤转移，并且均适合 GBM 和 DIPG 基因治疗应用。该研究为将慢病毒基因治疗转化为临床应用提供了重要指导，支持基于肿瘤特异性载体趋向性特征的个性化治疗策略。
 
 ---
 ### [In vivo engineering of CAR-T cells: delivery strategies and clinical translation.](https://pubmed.ncbi.nlm.nih.gov/41593732/)
