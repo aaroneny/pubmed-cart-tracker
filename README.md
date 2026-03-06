@@ -2,26 +2,10 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-02-27
+📅 **更新日期**: 2026-03-06
 
 ---
 
-### [In vivo chimeric antigen receptor (CAR)-T cell therapy.](https://pubmed.ncbi.nlm.nih.gov/41028170/)
-- **期刊**: *Nature reviews. Drug discovery* | 🔥 IF: **48.5**
-- **发表日期**: 2026-Feb
-- **主要单位**: Capstan Therapeutics, San Diego, CA, USA
-- **核心结论**: 
-> 这篇综述探讨了基础技术——包括脂质纳米颗粒传递的 RNA 和工程病毒载体——并讨论了如何调整它们来开发更广泛适用、可扩展、安全和有效的 CAR-T 细胞疗法。通过消除离体操作和化疗条件的需要，该策略可以使 CAR-T 细胞疗法更广泛地应用于血癌，而且还可以应用于离体 CAR-T 细胞疗法已显示出强大前景的自身免疫性疾病，例如系统性红斑狼疮。
-
----
-### [In vivo CAR-T: a paradigm shift in adoptive cell therapy from bench to beside.](https://pubmed.ncbi.nlm.nih.gov/41692627/)
-- **期刊**: *Science bulletin* | 🔥 IF: **44.7**
-- **发表日期**: 2026-Feb-01
-- **主要单位**: National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China
-- **核心结论**: 
-> 暂无摘要
-
----
 ### [In Vivo CAR T Cells Deliver Deep Responses in Myeloma.](https://pubmed.ncbi.nlm.nih.gov/41405215/)
 - **期刊**: *Cancer discovery* | 🔥 IF: **29.7**
 - **发表日期**: 2026-Feb-06
@@ -70,12 +54,44 @@
 > 前 F mRNA 和前 F 蛋白联合疫苗接种可调节攻击后平衡效应 CD8 T 细胞反应。这项研究支持这样的观点，即前 F mRNA 和前 F 蛋白疫苗相结合将比单独使用 mRNA 或蛋白疫苗提供更有效的体液和平衡的细胞免疫。
 
 ---
-### [Stable and Predictable Lentiviral Vector Production at Clinical Scale.](https://pubmed.ncbi.nlm.nih.gov/41269147/)
-- **期刊**: *Human gene therapy* | 🔥 IF: **4.2**
-- **发表日期**: 2026-Feb
-- **主要单位**: BioNTech-IMFS, Idar-Oberstein, Germany
+### [Beyond autologous <i>ex vivo</i> CAR-expressing cell therapies: Toward allogeneic and nucleated cell-free delivery systems of CAR.](https://pubmed.ncbi.nlm.nih.gov/41783358/)
+- **期刊**: *Molecular therapy. Oncology* | IF: -
+- **发表日期**: 2026-Mar-19
+- **主要单位**: Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215, USA
 - **核心结论**: 
-> 在最初的放大实验中，可以实现生物反应器的多次收获，切向流过滤后滴度约为 8-9 × 10<sup>7</sup> TU/mL，总产量约为 2.3 × 10<sup>11</sup> TU。总之，基于 RMCE 的转移构建体的引入可以实现稳定、明确、可预测和安全的载体生产，适合临床应用。
+> 尽管有这样的希望，挑战仍然存在，包括细胞特异性靶向、转基因持久性的控制、免疫原性和监管考虑。总之，这些创新标志着基于 CAR 的细胞免疫疗法的产生和部署的范式转变。
+
+---
+### [Synergizing Artificial Intelligence with In Vivo CAR-T Cell Generation: A New Paradigm for Democratized Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41763635/)
+- **期刊**: *Bio Systems* | IF: -
+- **发表日期**: 2026-Feb-26
+- **主要单位**: Wellington, New Zealand
+- **核心结论**: 
+> 肿瘤学和自身免疫性疾病的早期临床试验提供了令人信服的概念验证，强调了体内 CAR-T 策略在大幅改善可及性和简化治疗实施方面的潜力。本综述探讨了体内 CAR-T 生成的机制、比较优势、临床进展和未来挑战，重点关注人工智能在塑造下一代安全、可扩展和智能的基于细胞的免疫疗法中的协同作用。
+
+---
+### [Generation and characterization of a novel MHC-II tetramer for tracking and characterization of toxin B-specific CD4 <sup>+</sup> T cell responses.](https://pubmed.ncbi.nlm.nih.gov/41757099/)
+- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
+- **发表日期**: 2026-Feb-19
+- **主要单位**: 暂无单位信息
+- **核心结论**: 
+> 这些数据概述了 C 语言新工具的生成。 difficile</i> 领域，并为未来研究毒素特异性 CD4 <sup>+</sup> T 细胞反应奠定基础。
+
+---
+### [In Vivo CAR-T Therapies-A New Era of Programmable Immunity.](https://pubmed.ncbi.nlm.nih.gov/41751878/)
+- **期刊**: *International journal of molecular sciences* | IF: -
+- **发表日期**: 2026-Feb-11
+- **主要单位**: Independent Researcher, Philadelphia, PA 19342, USA
+- **核心结论**: 
+> 在这篇综述中，我们总结了主要的和新兴的体内 CAR-T 递送平台，分析了它们的基础技术、临床前和临床性能以及发展路径，并讨论了塑造这一快速新兴领域的科学、技术和生物学挑战。我们进一步概述了可编程 T 细胞免疫领域的未来方向和机遇。
+
+---
+### [In vivo CAR-T engineering: insights from the 2025 ASH annual meeting.](https://pubmed.ncbi.nlm.nih.gov/41749385/)
+- **期刊**: *Experimental hematology & oncology* | IF: -
+- **发表日期**: 2026-Feb-26
+- **主要单位**: Department of Immunology, Faculty of Medical Sciences, Tarbiat Modares University, Tehran, Iran
+- **核心结论**: 
+> 然而，未来的研究仍存在某些局限性有待解决。本信件总结了会议的主要发现，讨论了当前的转化挑战，并强调了未来的方向。
 
 ---
 ### [Generation of CCR4/CD7 Bispecific CAR-T Cells Resistant to Fratricide and Exhaustion.](https://pubmed.ncbi.nlm.nih.gov/41742839/)
@@ -142,35 +158,11 @@
 > 这些发现扩展了之前的报告，描述了 AGT103-T 治疗参与者在分析治疗中断期间的积极免疫和病毒学结果。改良的完整原病毒 DNA 测定能够在慢病毒基因治疗的背景下准确测量完整的 HIV 病毒库，并支持 AGT103-T 的持续临床评估。
 
 ---
-### [CD3ɛ Nanobody-Engineered Extracellular Vesicles Driving In Vivo Generation of BiTE-Secreting CAR-Ts for Solid Tumor Therapy With Memory Response and Minimal Immunogenicity.](https://pubmed.ncbi.nlm.nih.gov/41632088/)
+### [CD3ɛ Nanobody-Engineered Extracellular Vesicles Driving In Vivo Generation of TCE-secreting CAR-Ts for Solid Tumor Therapy With Memory Response and Minimal Immunogenicity.](https://pubmed.ncbi.nlm.nih.gov/41632088/)
 - **期刊**: *Advanced science (Weinheim, Baden-Wurttemberg, Germany)* | IF: -
 - **发表日期**: 2026-Feb-03
 - **主要单位**: Translational Cell Therapy Center, Department of Medical Research, China Medical University Hospital, Taichung, Taiwan
 - **核心结论**: 
 > 值得注意的是，与脂质载体和慢病毒载体相比，CD3ε-Nb EV 表现出最小的免疫原性风险，尽管它们具有相当的抗肿瘤活性。总而言之，靶向 CD3 的 EV 可以驱动体内生成双特异性 CAR-T 细胞，以最小的免疫原性有效消除癌症并改善记忆反应。
-
----
-### [In vivo engineering of CAR-T cells: delivery strategies and clinical translation.](https://pubmed.ncbi.nlm.nih.gov/41593732/)
-- **期刊**: *Biomarker research* | IF: -
-- **发表日期**: 2026-Jan-27
-- **主要单位**: Department of Hematology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, 430030, China
-- **核心结论**: 
-> 本综述综合了主要递送平台的进展，分析了体内方法特有的关键转化和监管障碍，并强调了载体趋向性、免疫调节和可扩展制造方面的新兴创新。随着该领域的成熟，体内 CAR-T 策略可能会在肿瘤学和自身免疫性疾病领域解锁更广泛的治疗应用，重新定义细胞免疫疗法的可及性和精确度。
-
----
-### [Engineering a fifth-generation CAR T cells to overcome PD-L1-mediated immunosuppression in lung cancer.](https://pubmed.ncbi.nlm.nih.gov/41548539/)
-- **期刊**: *Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie* | IF: -
-- **发表日期**: 2026-Feb
-- **主要单位**: Division of Transfusion science, Department of Medical Technology, Faculty of Associated Medical Sciences, Chiang Mai University, Chiang Mai 50200, Thailand
-- **核心结论**: 
-> 这种第五代 CAR 提供了一种有前途的策略，可以增强 CAR T 细胞在 PD-L1 介导的免疫抑制 TME 中的治疗效果。这些发现表明，抗 FRα-CAR5 T 细胞疗法值得进一步临床前验证，作为 NSCLC 患者的潜在治疗策略。
-
----
-### [Targeted delivery of IFN-α-anti-GPC3 fusion protein via mRNA-LNP platform elicits potent anti-tumor immunity in hepatocellular carcinoma.](https://pubmed.ncbi.nlm.nih.gov/40908442/)
-- **期刊**: *Drug delivery and translational research* | IF: -
-- **发表日期**: 2026-Feb
-- **主要单位**: Department of Infectious Diseases and Hepatology, The First Affiliated Hospital of Zhengzhou University, No
-- **核心结论**: 
-> mRNA-LNP 介导的 IFN-α-抗 GPC3 融合蛋白的递送实现了靶向原位肝表达，显着增强了抗肿瘤活性，具有广泛的治疗窗口。该策略为 HCC 精准免疫治疗提供了一种新方法，具有巨大的临床转化潜力。
 
 ---
