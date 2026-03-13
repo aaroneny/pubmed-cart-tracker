@@ -2,24 +2,32 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-03-06
+📅 **更新日期**: 2026-03-13
 
 ---
 
-### [In Vivo CAR T Cells Deliver Deep Responses in Myeloma.](https://pubmed.ncbi.nlm.nih.gov/41405215/)
-- **期刊**: *Cancer discovery* | 🔥 IF: **29.7**
-- **发表日期**: 2026-Feb-06
+### [In vivo CAR-T cells target fibrogenic cells in MASH.](https://pubmed.ncbi.nlm.nih.gov/41813993/)
+- **期刊**: *Nature reviews. Drug discovery* | 🔥 IF: **48.5**
+- **发表日期**: 2026-Mar-11
 - **主要单位**: 暂无单位信息
 - **核心结论**: 
-> 早期临床结果表明，体内 T 细胞工程可以触发嵌合抗原受体的快速表达，并在复发性多发性骨髓瘤患者中诱导深度反应，而无需传统过继性细胞疗法所需的制造。然而，需要更大规模的研究来确定现成的体内方法与现有自体疗法的比较。
+> 暂无摘要
 
 ---
-### [An mRNA-delivered consensus allergen induces a neutralizing IgG response against food and pollen allergens.](https://pubmed.ncbi.nlm.nih.gov/41644535/)
-- **期刊**: *Nature communications* | 🔥 IF: **14.7**
-- **发表日期**: 2026-Feb-05
-- **主要单位**: Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark
+### [B cell depletion in autoimmune disease: in vivo CAR-T or T cell engagers?](https://pubmed.ncbi.nlm.nih.gov/41807826/)
+- **期刊**: *Nature biotechnology* | 🔥 IF: **33.1**
+- **发表日期**: 2026-Mar-10
+- **主要单位**: , London, UK
 - **核心结论**: 
-> 同时，在过敏小鼠模型中，mRNA-LNP 制剂具有耐受性并诱导过敏原特异性 IgG 反应，但不会改善随后的过敏原激发反应。无论如何，一旦优化了给药途径、配方和/或剂量，这种基于跨过敏原 mRNA-LNP 的免疫疗法可能具有转化价值。
+> 暂无摘要
+
+---
+### [Superior In Vivo Efficacy for T Cell Engineering via Citronellol-Tailored mRNA-tLNPs.](https://pubmed.ncbi.nlm.nih.gov/41815040/)
+- **期刊**: *Small (Weinheim an der Bergstrasse, Germany)* | 🔥 IF: **13.0**
+- **发表日期**: 2026-Mar-12
+- **主要单位**: State Key Laboratory of Green Pesticide, College of Chemistry, Central China Normal University, Wuhan, China
+- **核心结论**: 
+> 在小鼠 CD19 实体瘤模型中，αH<sub>3</sub>T<sub>4</sub> 生成的 CAR T 细胞实现了 83% 的肿瘤清除率，证明了效力驱动的功效。这项工作将内在转染效力确立为下一代 CAR T 平台的主要可调参数。
 
 ---
 ### [Lipid nanoparticle-mediated in vivo generation of panCAR immune cells for solid tumor immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41712635/)
@@ -46,12 +54,44 @@
 > 在这里，我们表明，编码来自不同病毒谱系的 OROV 包膜糖蛋白的 mRNA-脂质纳米颗粒 (mRNA-LNP) 疫苗可引发强烈的抗体和 T 细胞反应，并在小鼠模型中提供强大的保护，包括对原型毒株和当前流行毒株的致命攻击的灭菌免疫。我们的数据表明，整合当代抗原序列可以增强交叉菌株保护，支持使用 mRNA-LNP 平台作为未来 OROV 爆发和相关新兴病原体的快速、适应性强的解决方案。
 
 ---
+### [Primary evaluation of immune responses in mice after a single mRNA immunization with Echinococcus granulosus Eg95 and Coenurus cerebralis TM16.](https://pubmed.ncbi.nlm.nih.gov/41570444/)
+- **期刊**: *Vaccine* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Mar-07
+- **主要单位**: State Key Laboratory of Animal Disease Control and Prevention, College of Veterinary Medicine, Lanzhou University, Key Laboratory of Veterinary Parasitology of Gansu Province, Lanzhou Veterinary Research Institute, Chinese Academy of Agricultural Sciences, Lanzhou 730046, China
+- **核心结论**: 
+> 与蛋白质疫苗相比，mRNA-LNP 疫苗在增强 IgG2a 水平和 CD8+ T 细胞反应方面表现出卓越的功效。这些结果表明Eg95-TM16 mRNA-LNP疫苗具有很强的免疫原性，并支持在绵羊和山羊等中间宿主中进一步评估。
+
+---
 ### [A combination of new prefusion mRNA and protein vaccines enhances neutralizing antibodies and protection against respiratory syncytial virus.](https://pubmed.ncbi.nlm.nih.gov/41455187/)
 - **期刊**: *Vaccine* | 🔥 IF: **4.5**
 - **发表日期**: 2026-Feb-15
 - **主要单位**: Center for Inflammation, Immunity and Infection, Institute for Biomedical Sciences, Georgia State University, Atlanta, GA 30302, USA
 - **核心结论**: 
 > 前 F mRNA 和前 F 蛋白联合疫苗接种可调节攻击后平衡效应 CD8 T 细胞反应。这项研究支持这样的观点，即前 F mRNA 和前 F 蛋白疫苗相结合将比单独使用 mRNA 或蛋白疫苗提供更有效的体液和平衡的细胞免疫。
+
+---
+### [Lentiviral hematopoietic stem cell gene therapy ameliorates GM1-gangliosidosis in mice.](https://pubmed.ncbi.nlm.nih.gov/41376163/)
+- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Mar-04
+- **主要单位**: Division of Pediatric Hematology, Oncology and Stem Cell Transplant, Department of Women's and Children's Health, University of Padua, 35127 Padua, Italy
+- **核心结论**: 
+> 在该疾病的小鼠模型中，GT 广泛恢复了酶活性，减少了大脑中溶酶体的储存，改善了神经肌肉表型，并提高了动物的存活率。细胞递送 GT 与人类酶的组合，或标准静脉 GT 与鼠 β-gal 的组合在减轻疾病表型方面同样有效，表明该方法在未来临床转化方面具有巨大的治疗潜力。
+
+---
+### [From <i>Ex Vivo</i> to <i>In Vivo</i>: Advances in Lentiviral Vector Engineering for CAR-T Therapy.](https://pubmed.ncbi.nlm.nih.gov/41800026/)
+- **期刊**: *Immune network* | IF: -
+- **发表日期**: 2026-Feb
+- **主要单位**: Institute of Pharmaceutical Sciences, College of Pharmacy, Seoul National University, Seoul 08826, Korea
+- **核心结论**: 
+> 最后，我们回顾了当前的临床情况，并强调了支持从正在进行的临床阶段项目中生成<i>体内</i> CAR-T 可行性的早期证据。总的来说，这些进步正在加速<i>体内</i> CAR-T 平台向可扩展模式的成熟，并有可能大幅拓宽先进细胞免疫疗法的可及性。
+
+---
+### [A stable two-component cationic liposome platform for mRNA delivery induces CD8<sup>+</sup> T-cell responses and protection in a murine lymphoma model.](https://pubmed.ncbi.nlm.nih.gov/41792746/)
+- **期刊**: *Journal of nanobiotechnology* | IF: -
+- **发表日期**: 2026-Mar-07
+- **主要单位**: Department of Infectious Disease Immunology, Center for Vaccine Research, Statens Serum Institut, Artillerivej 5, Copenhagen, 2300, Denmark
+- **核心结论**: 
+> 在 E.G7-OVA 淋巴瘤模型中，使用 CAF04:mRNA 进行治疗性疫苗接种可延迟肿瘤生长并提高生存率。我们提出了一种高度稳定的 mRNA 递送平台，可以冷冻干燥以延长储存时间，并与 mRNA 现场混合，诱导高功能性 CD8<sup>+</sup> T 细胞反应，具有治疗癌症疫苗的潜力。
 
 ---
 ### [Beyond autologous <i>ex vivo</i> CAR-expressing cell therapies: Toward allogeneic and nucleated cell-free delivery systems of CAR.](https://pubmed.ncbi.nlm.nih.gov/41783358/)
@@ -158,11 +198,11 @@
 > 这些发现扩展了之前的报告，描述了 AGT103-T 治疗参与者在分析治疗中断期间的积极免疫和病毒学结果。改良的完整原病毒 DNA 测定能够在慢病毒基因治疗的背景下准确测量完整的 HIV 病毒库，并支持 AGT103-T 的持续临床评估。
 
 ---
-### [CD3ɛ Nanobody-Engineered Extracellular Vesicles Driving In Vivo Generation of TCE-secreting CAR-Ts for Solid Tumor Therapy With Memory Response and Minimal Immunogenicity.](https://pubmed.ncbi.nlm.nih.gov/41632088/)
+### [Potent and Long-Lasting Immunogenicity Generated by LNP-mRNA gE Antigen Against Varicella Zoster Virus via an AI-Assisted Pipeline.](https://pubmed.ncbi.nlm.nih.gov/41449740/)
 - **期刊**: *Advanced science (Weinheim, Baden-Wurttemberg, Germany)* | IF: -
-- **发表日期**: 2026-Feb-03
-- **主要单位**: Translational Cell Therapy Center, Department of Medical Research, China Medical University Hospital, Taichung, Taiwan
+- **发表日期**: 2026-Mar
+- **主要单位**: Beijing Youcare Kechuang Pharmaceutical Technology Co
 - **核心结论**: 
-> 值得注意的是，与脂质载体和慢病毒载体相比，CD3ε-Nb EV 表现出最小的免疫原性风险，尽管它们具有相当的抗肿瘤活性。总而言之，靶向 CD3 的 EV 可以驱动体内生成双特异性 CAR-T 细胞，以最小的免疫原性有效消除癌症并改善记忆反应。
+> CD4<sup>+</sup> T 细胞反应对于 VZV 再激活保护至关重要，与 Shingrix 相比，VZV-gEmD 的 CD4<sup>+</sup> T 细胞反应明显更强、更持久。这些发现凸显了其作为带状疱疹病毒有效预防性疫苗的潜力，并为在带状疱疹病毒疫苗开发中利用该 mRNA 平台提供了信心。
 
 ---
