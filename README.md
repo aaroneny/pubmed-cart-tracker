@@ -2,16 +2,40 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-03-20
+📅 **更新日期**: 2026-03-27
 
 ---
 
+### [In vivo generation of anti-BCMA CAR-T cells in relapsed or refractory multiple myeloma: a phase 1 study.](https://pubmed.ncbi.nlm.nih.gov/41882404/)
+- **期刊**: *Nature medicine* | 🔥 IF: **58.7**
+- **发表日期**: 2026-Mar-25
+- **主要单位**: Department of Hematology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China
+- **核心结论**: 
+> 这些发现为使用免疫屏蔽载体体内生成 CAR-T 的可行性和安全性提供了初步证据。 ClinicalTrials.gov 注册：NCT06791681 ..
+
+---
+### [Engineering in vivo CAR-T cells.](https://pubmed.ncbi.nlm.nih.gov/41882403/)
+- **期刊**: *Nature medicine* | 🔥 IF: **58.7**
+- **发表日期**: 2026-Mar-25
+- **主要单位**: Innovative Immunotherapies Unit, Division of Immunology, Transplantation and Infectious Diseases, IRCCS San Raffaele Hospital, Milan, Italy
+- **核心结论**: 
+> 暂无摘要
+
+---
 ### [In vivo CAR-T cells target fibrogenic cells in MASH.](https://pubmed.ncbi.nlm.nih.gov/41813993/)
 - **期刊**: *Nature reviews. Drug discovery* | 🔥 IF: **48.5**
 - **发表日期**: 2026-Mar-11
 - **主要单位**: 暂无单位信息
 - **核心结论**: 
 > 暂无摘要
+
+---
+### [In vivo generation of CAR myeloid cells through erythrocyte-mediated mRNA delivery for cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41880522/)
+- **期刊**: *Science translational medicine* | 🔥 IF: **44.7**
+- **发表日期**: 2026-Mar-25
+- **主要单位**: Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310030, China
+- **核心结论**: 
+> 此外，重复施用 mRNA-LNP-Ery 在十分之一的 mRNA 剂量下取得了优于传统 mRNA-LNP 的抗肿瘤功效，且全身毒性最小，强调了脾靶向递送的高效性和安全性。总之，我们的研究结果建立了一个基于红细胞的临床可翻译 mRNA 平台，可实现直接体内免疫细胞编程并推进实体瘤的 CAR 骨髓疗法。
 
 ---
 ### [B cell depletion in autoimmune disease: in vivo CAR-T or T cell engagers?](https://pubmed.ncbi.nlm.nih.gov/41807826/)
@@ -78,6 +102,30 @@
 > 在该疾病的小鼠模型中，GT 广泛恢复了酶活性，减少了大脑中溶酶体的储存，改善了神经肌肉表型，并提高了动物的存活率。细胞递送 GT 与人类酶的组合，或标准静脉 GT 与鼠 β-gal 的组合在减轻疾病表型方面同样有效，表明该方法在未来临床转化方面具有巨大的治疗潜力。
 
 ---
+### [Lipid Nanoparticles with Side-Chain Polymer Coating for Targeted mRNA Delivery through Nanobody Attachment.](https://pubmed.ncbi.nlm.nih.gov/41885077/)
+- **期刊**: *Bioconjugate chemistry* | IF: -
+- **发表日期**: 2026-Mar-26
+- **主要单位**: Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, Brisbane, Queensland 4072, Australia
+- **核心结论**: 
+> 比较了生物缀合方法，包括直接缀合和插入后。结果表明，通过直接缀合制备的 9G8 连接的 PMSEA mRNA-LNP 显着增强了 EGFR 阳性细胞系的细胞关联和<i>体外</i>转染效率，证明了具有侧链聚合物涂层的 mRNA-LNP 平台主动靶向的效力。
+
+---
+### [Optimized High-Titer Lentivirus Production and Efficient CAR-T Cell Generation.](https://pubmed.ncbi.nlm.nih.gov/41874373/)
+- **期刊**: *Current protocols* | IF: -
+- **发表日期**: 2026-Mar
+- **主要单位**: Centre for Immuno-biology and Immunotherapy, Translational Health Science and Technology Institute, Faridabad, Gurugram, India
+- **核心结论**: 
+> © 2026 Wiley 期刊有限责任公司。基本方案 1：质粒比率筛选 基本方案 2：通过超速离心浓缩病毒 基本方案 3：基于 FACS 的滴定测定 基本方案 4：外周血单核细胞 (PBMC) 分离 基本方案 5：PBMC 激活以实现有效转导 基本方案 6：使用慢病毒生成 CAR-T 细胞 支持方案：流式细胞术门控策略。
+
+---
+### [Novel non-viral in vivo CAR-T therapies: latest updates from the 2025 ASH annual meeting.](https://pubmed.ncbi.nlm.nih.gov/41857667/)
+- **期刊**: *Experimental hematology & oncology* | IF: -
+- **发表日期**: 2026-Mar-19
+- **主要单位**: Department of Hematology, Shanghai Tongji Hospital, Tongji University School of Medicine, Shanghai, 200065, China
+- **核心结论**: 
+> 2025 年美国血液学会 (ASH) 年会展示了各种非病毒技术的突破性临床前数据，包括先进的脂质纳米颗粒 (LNP)、病毒样颗粒 (VLP) 和聚合物纳米颗粒。本信件总结了这些平台的最新报告，强调了它们彻底改变自身免疫性疾病和血液恶性肿瘤治疗的潜力。
+
+---
 ### [Engineering CLL-1 CAR-NK cells via mRNA-LNP for potent antitumor activity and reversal of HLA-E-mediated resistance in acute myeloid leukemia.](https://pubmed.ncbi.nlm.nih.gov/41845478/)
 - **期刊**: *Journal of experimental & clinical cancer research : CR* | IF: -
 - **发表日期**: 2026-Mar-17
@@ -100,14 +148,6 @@
 - **主要单位**: Hematology Department, Qingdao Hiser Hospital Affiliated of Qingdao University (Qingdao Traditional Chinese Medicine Hospital), Qingdao, Shandong, People's Republic of China
 - **核心结论**: 
 > 通过设计靶向纳米载体、纳米免疫疗法和TME响应的智能纳米治疗平台，可以实现抗淋巴瘤药物的靶向递送，提高疗效并降低毒性。同时，这些平台可以整合多种治疗方式（如化学动力学治疗、免疫调节和基因沉默），以实现协同和增强的抗淋巴瘤效果，为淋巴瘤治疗提供新的范例。
-
----
-### [From <i>Ex Vivo</i> to <i>In Vivo</i>: Advances in Lentiviral Vector Engineering for CAR-T Therapy.](https://pubmed.ncbi.nlm.nih.gov/41800026/)
-- **期刊**: *Immune network* | IF: -
-- **发表日期**: 2026-Feb
-- **主要单位**: Institute of Pharmaceutical Sciences, College of Pharmacy, Seoul National University, Seoul 08826, Korea
-- **核心结论**: 
-> 最后，我们回顾了当前的临床情况，并强调了支持从正在进行的临床阶段项目中生成<i>体内</i> CAR-T 可行性的早期证据。总的来说，这些进步正在加速<i>体内</i> CAR-T 平台向可扩展模式的成熟，并有可能大幅拓宽先进细胞免疫疗法的可及性。
 
 ---
 ### [A stable two-component cationic liposome platform for mRNA delivery induces CD8<sup>+</sup> T-cell responses and protection in a murine lymphoma model.](https://pubmed.ncbi.nlm.nih.gov/41792746/)
@@ -134,14 +174,6 @@
 > 肿瘤学和自身免疫性疾病的早期临床试验提供了令人信服的概念验证，强调了体内 CAR-T 策略在大幅改善可及性和简化治疗实施方面的潜力。本综述探讨了体内 CAR-T 生成的机制、比较优势、临床进展和未来挑战，重点关注人工智能在塑造下一代安全、可扩展和智能的基于细胞的免疫疗法中的协同作用。
 
 ---
-### [Generation and characterization of a novel MHC-II tetramer for tracking and characterization of toxin B-specific CD4<sup>+</sup> T cell responses.](https://pubmed.ncbi.nlm.nih.gov/41757099/)
-- **期刊**: *bioRxiv : the preprint server for biology* | IF: -
-- **发表日期**: 2026-Feb-19
-- **主要单位**: Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA
-- **核心结论**: 
-> 这些数据概述了 C 语言新工具的生成。 difficile</i> 领域，并为未来研究毒素特异性 CD4<sup>+</sup> T 细胞反应奠定基础。
-
----
 ### [In vivo CAR-T engineering: insights from the 2025 ASH annual meeting.](https://pubmed.ncbi.nlm.nih.gov/41749385/)
 - **期刊**: *Experimental hematology & oncology* | IF: -
 - **发表日期**: 2026-Feb-26
@@ -156,22 +188,6 @@
 - **主要单位**: Department of Paediatrics and Adolescent Medicine, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, Hong Kong SAR, P
 - **核心结论**: 
 > 该细胞亚群表现出 Src/Ras/ERK 和 Bcl-2 通路的广泛激活、高水平的 SOS1 和 KLF2 表达以及肿瘤坏死因子超家族内的特异性配体-受体相互作用。总的来说，这些结果表明 CCR4/CD7 双特异性 CD7N CAR-T 细胞的进一步临床开发是必要的，包括具有 SOS1/KLF2 调节的 AQP3+ 子集。
-
----
-### [Bioinformatic identification of lentivirus transfer plasmid contamination causing false-positive HIV NAT results in a high-throughput molecular screening laboratory.](https://pubmed.ncbi.nlm.nih.gov/41718474/)
-- **期刊**: *Microbiology spectrum* | IF: -
-- **发表日期**: 2026-Feb-20
-- **主要单位**: Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom
-- **核心结论**: 
-> 污染物的性质意味着捐赠者、接受者或工作人员不会面临任何风险。然而，它确实证明了质粒生产场所的设施设计和操作对于防止此类污染物的扩散并避免意外的下游后果（例如在筛选实验室中遇到的后果）至关重要。
-
----
-### [Novel Lipid Nanoparticle (LNP) Delivery Systems Enabling the Advancement of RNA Therapeutics.](https://pubmed.ncbi.nlm.nih.gov/41709402/)
-- **期刊**: *Advanced healthcare materials* | IF: -
-- **发表日期**: 2026-Feb-18
-- **主要单位**: Beijing Youcare Kechuang Pharmaceutical Technology Co
-- **核心结论**: 
-> 此外，该综述还全面概述了RNA-LNP在传染病、癌症免疫治疗、基因治疗、基于细胞的治疗和RNAi-LNP治疗中的临床应用，提供了增强递送功效和转化能力的系统策略。最后，我们讨论了未来的方向和尚未解决的挑战，包括LNP和非LNP载体的多模式融合递送方法、各个领域的跨学科整合以及肝外递送策略的瓶颈，为mRNA-LNP治疗的翻译途径提供系统的见解。
 
 ---
 ### [Toward precision immunotherapy: In vivo gene editing of T, NK, and myeloid cells.](https://pubmed.ncbi.nlm.nih.gov/41679305/)
