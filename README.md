@@ -2,7 +2,7 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-04-24
+📅 **更新日期**: 2026-05-01
 
 ---
 
@@ -38,20 +38,20 @@
 > 暂无摘要
 
 ---
-### [In vivo generation of CAR myeloid cells through erythrocyte-mediated mRNA delivery for cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/41880522/)
-- **期刊**: *Science translational medicine* | 🔥 IF: **44.7**
-- **发表日期**: 2026-Mar-25
-- **主要单位**: Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310030, China
-- **核心结论**: 
-> 此外，重复施用 mRNA-LNP-Ery 在十分之一的 mRNA 剂量下取得了优于传统 mRNA-LNP 的抗肿瘤功效，且全身毒性最小，强调了脾靶向递送的高效性和安全性。总之，我们的研究结果建立了一个基于红细胞的临床可翻译 mRNA 平台，可实现直接体内免疫细胞编程并推进实体瘤的 CAR 骨髓疗法。
-
----
 ### [Preventing trogocytosis by cathepsin B inhibition augments CAR T-cell function.](https://pubmed.ncbi.nlm.nih.gov/42020353/)
 - **期刊**: *Signal transduction and targeted therapy* | 🔥 IF: **40.8**
 - **发表日期**: 2026-Apr-22
 - **主要单位**: Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD, USA
 - **核心结论**: 
 > 通过使用定制的高通量 CMT 筛选试验进行小分子筛选，我们发现半胱氨酸蛋白酶组织蛋白酶 B 对于 CMT 至关重要，并且抑制组织蛋白酶 B 足以防止 CAR T 细胞自相残杀和耗竭，从而改善 CAR T 细胞的长期体外和体内持久性和体外抗肿瘤活性。我们的数据表明，将 CMT 与细胞毒性活性分开是可行的，CAR T 细胞持久性是与临床 CAR T 细胞功效相关的关键因素，与 CAR T 细胞中的组织蛋白酶 B 活性直接相关，并且可以通过选择性抑制 CMT 来改善 CAR T 细胞功能。
+
+---
+### [mRNA vaccine immunity is enhanced by hepatocyte detargeting and not dependent on dendritic cell expression.](https://pubmed.ncbi.nlm.nih.gov/42056385/)
+- **期刊**: *Nature biotechnology* | 🔥 IF: **33.1**
+- **发表日期**: 2026-Apr-29
+- **主要单位**: Icahn Genomics Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA
+- **核心结论**: 
+> 在携带表达肿瘤相关抗原 (TAA) 的淋巴瘤细胞的小鼠中，miRT 介导的肝细胞沉默 TAA mRNA 疫苗增强了免疫反应并减轻了肿瘤负荷。因此，非 pAPC 表达形成对 mRNA 编码蛋白的免疫性，而 miRT 的包含可以增强或减弱 mRNA-LNP 的免疫原性。
 
 ---
 ### [B cell depletion in autoimmune disease: in vivo CAR-T or T cell engagers?](https://pubmed.ncbi.nlm.nih.gov/41807826/)
@@ -110,14 +110,6 @@
 > 优化的 LNP 可在 CD8<sup>+</sup> T 细胞中实现选择性 mRNA 表达，并实现<i>体内</i> CAR-T 生成，从而在 10-30 μg/kg 时产生剂量依赖性 B 细胞耗竭。因此，表面亲和力作为一个定量设计参数出现，将抗体修饰的 LNP 工程从经验设计转变为基于规则的设计。
 
 ---
-### [Efficacy and immunological correlates of an mRNA-LNP vaccine for protection against an emerging rickettsial pathogen.](https://pubmed.ncbi.nlm.nih.gov/41823664/)
-- **期刊**: *Emerging microbes & infections* | 🔥 IF: **7.5**
-- **发表日期**: 2026-Dec
-- **主要单位**: Department of Veterinary Biosciences, The College of Veterinary Medicine, Infectious Diseases Institute, The Ohio State University, Columbus, OH, USA
-- **核心结论**: 
-> 恰菲丝虫感染，具有显着的体液免疫反应，包括感染中和抗体、平衡的 Th1/Th2 反应以及抗原特异性 T 辅助细胞和细胞毒性 T 细胞激活。这些数据表明 mRNA-LNP 方法是开发高效抗立克次体疫苗的可行策略<i>.</i>。
-
----
 ### [Robust CD8<sup>+</sup> T cell responses induced by an mRNA-LNP vaccine encoding rat HER2 extracellular domain confer prophylactic tumor protection.](https://pubmed.ncbi.nlm.nih.gov/41993212/)
 - **期刊**: *Frontiers in immunology* | 🔥 IF: **5.7**
 - **发表日期**: 2026
@@ -134,15 +126,31 @@
 > 此外，新型 mRNA-LNP 疫苗由于其卓越的稳定性和可控性，在临床前模型中显示出良好的前景。该综述强调了基于T细胞表位的疫苗补充现有DENV疫苗开发策略的潜力，并为DENV的预防和治疗提供新思路。
 
 ---
-### [Advancements and expanding applications of CAR-T cell therapy.](https://pubmed.ncbi.nlm.nih.gov/41953032/)
-- **期刊**: *Frontiers in immunology* | 🔥 IF: **5.7**
-- **发表日期**: 2026
-- **主要单位**: School of Medicine, Shanghai University, Shanghai, China
+### [Comparison of Vaccine Platforms for Machupo Virus.](https://pubmed.ncbi.nlm.nih.gov/42042791/)
+- **期刊**: *Vaccines* | 🔥 IF: **5.2**
+- **发表日期**: 2026-Mar-31
+- **主要单位**: Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA
 - **核心结论**: 
-> 虽然基因组编辑、合成生物学和计算设计方面的技术创新不断完善 CAR-T 平台，但仍然存在巨大的生物学和后勤挑战。有必要对这些不断发展的策略进行关键综合，以区分渐进式优化与范式转变的进步，并确定跨肿瘤学和免疫介导疾病的基于 CAR 的免疫疗法的未来轨迹。
+> 我们发现，当采用异源 mRNA 和 rVSV 初免-加强方案时，可达到最高水平的 MACV GPC 特异性 IgG 和中和滴度。这些结果阐明了不同 MACV 疫苗平台的免疫反应差异，并可为未来 NW 沙粒病毒疫苗的开发提供信息。
 
 ---
-### [Next-Generation In Vivo CAR-T Expansion Strategies: Unlocking Durable Anti-Tumor Responses in Solid Tumors.](https://pubmed.ncbi.nlm.nih.gov/42013999/)
+### [On the road to in vivo CAR-T success: Comparing promising viral and non-viral vectors.](https://pubmed.ncbi.nlm.nih.gov/42049130/)
+- **期刊**: *Biotechnology advances* | IF: -
+- **发表日期**: 2026-Apr-26
+- **主要单位**: Department of Biochemical Engineering, University College London, Bernard Katz Building, Gower Street, London WC1E 6BT, United Kingdom
+- **核心结论**: 
+> 最近，体内 CAR-T 工程工具箱已经扩展，包括基于 DNA 的 LNP 平台，能够通过转座子系统稳定整合 CAR 转基因，第四代 T 细胞靶向慢病毒系统，最大限度地减少载体颗粒上的 CAR 显示和异常剪接，以及新兴的基因组编辑技术。本综述比较了用于体内 CAR-T 治疗的病毒和非病毒载体，评估了它们在安全性、有效性、可扩展性、分析方法、监管实施和商业可行性方面的相对优势和局限性。
+
+---
+### [Application of Allometric Scaling and Translational Modeling to Predict Human Pharmacokinetics of mRNA-Encoded Antibodies.](https://pubmed.ncbi.nlm.nih.gov/42035344/)
+- **期刊**: *Molecular pharmaceutics* | IF: -
+- **发表日期**: 2026-Apr-26
+- **主要单位**: BioNTech US Inc
+- **核心结论**: 
+> 总而言之，这些结果支持广义的跨物种 PK 关系，该关系独立于翻译的抗体或抗体样蛋白产物的分子特征。这种集成的缩放和建模框架为加速 mRNA 编码的治疗性抗体的 FIH 剂量选择提供了通用的解决方案，并且适用于其他感兴趣的重组蛋白。
+
+---
+### [Next-generation in vivo CAR-T expansion strategies: Unlocking durable anti-tumor responses in solid tumors.](https://pubmed.ncbi.nlm.nih.gov/42013999/)
 - **期刊**: *Critical reviews in oncology/hematology* | IF: -
 - **发表日期**: 2026-Apr-19
 - **主要单位**: The State Key Laboratory of Pharmaceutical Biotechnology, Division of Immunology, Medical School, Nanjing University, Nanjing 210093, China
@@ -196,30 +204,6 @@
 - **主要单位**: College of Clinical Medicine, The First Affiliated Hospital, Henan University of Science and Technology, Luoyang, 471023, China
 - **核心结论**: 
 > 为了提高 CAR-T 疗法的功效和可及性，尽管存在巨大的技术挑战和广阔的前景，体内生成 CAR 细胞的策略已成为一个突出的研究热点。该综述系统总结了体内CAR-T治疗的最新进展、技术挑战和未来趋势，重点关注CAR mRNA分子设计、结构修饰、基因递送技术进展以及临床应用，旨在为相关研究提供全面参考。
-
----
-### [DNA-directed assembly of multivalent lipid nanoparticles for targeted T cell gene delivery.](https://pubmed.ncbi.nlm.nih.gov/41916505/)
-- **期刊**: *Journal of controlled release : official journal of the Controlled Release Society* | IF: -
-- **发表日期**: 2026-Mar-29
-- **主要单位**: Center for Synthetic Biology, Northwestern University, Evanston, IL 60208, USA
-- **核心结论**: 
-> 此外，我们发现靶向分子可以改变 LNP 到脾脏和肝脏的生物分布。这种快速有效的组装抗体靶向 LNP 的方法能够对不同的抗体组合进行高通量筛选，从而提高体内基因递送的特异性和效率。
-
----
-### [Non-viral and mRNA-based strategies for next-generation CAR-T cell therapy.](https://pubmed.ncbi.nlm.nih.gov/41916191/)
-- **期刊**: *Pathology, research and practice* | IF: -
-- **发表日期**: 2026-Mar-25
-- **主要单位**: School of Stomatology, Shandong First Medical University & Shandong Academy of Medical Sciences, Jinan 250031, China
-- **核心结论**: 
-> 我们进一步讨论了临床转化的关键障碍，包括有限的表达耐久性、细胞选择性递送、制造可扩展性和监管考虑，并强调了计算方法对序列和载体优化的新兴贡献。总之，这些进展支持及时重新评估基于非病毒 mRNA 的 CAR-T 工程，作为开发下一代细胞疗法的实用框架。
-
----
-### [In vivo CAR T cell engineering: design principles and open questions.](https://pubmed.ncbi.nlm.nih.gov/41887986/)
-- **期刊**: *Trends in cancer* | IF: -
-- **发表日期**: 2026-Mar-25
-- **主要单位**: Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA
-- **核心结论**: 
-> 虽然早期临床研究证明了安全性和治疗活性，但关于长期疗效、递送方式和宿主生物学之间的相互作用以及每种递送方法的最佳疾病适应症仍然存在关键问题。这篇综述总结了体内 CAR-T 工程最先进的病毒和非病毒方法的临床前和临床数据，讨论了它们的机遇和局限性，并强调了将塑造这一新兴领域成熟的关键开放问题。
 
 ---
 ### [Lipid Nanoparticles with Side-Chain Polymer Coating for Targeted mRNA Delivery through Nanobody Attachment.](https://pubmed.ncbi.nlm.nih.gov/41885077/)
