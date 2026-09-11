@@ -2,10 +2,18 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-09-04
+📅 **更新日期**: 2026-09-11
 
 ---
 
+### [Publisher Correction: An inherent T cell-activating mRNA delivery carrier for in vivo CAR T generation.](https://pubmed.ncbi.nlm.nih.gov/42711506/)
+- **期刊**: *Nature materials* | 🔥 IF: **48.5**
+- **发表日期**: 2026-Sep-08
+- **主要单位**: College of Chemistry and Chemical Engineering, State Key Laboratory of Physical Chemistry of Solid Surfaces, State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Innovation Laboratory for Sciences and Technologies of Energy Materials of Fujian Province (IKKEM), Xiamen University, Xiamen, China
+- **核心结论**: 
+> 暂无摘要
+
+---
 ### [The landscape for in vivo CAR T cell therapies.](https://pubmed.ncbi.nlm.nih.gov/42665641/)
 - **期刊**: *Nature reviews. Drug discovery* | 🔥 IF: **48.5**
 - **发表日期**: 2026-Aug-28
@@ -20,14 +28,6 @@
 - **主要单位**: College of Chemistry and Chemical Engineering, State Key Laboratory of Physical Chemistry of Solid Surfaces, State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Innovation Laboratory for Sciences and Technologies of Energy Materials of Fujian Province (IKKEM), Xiamen University, Xiamen, China
 - **核心结论**: 
 > 通过 ERTLNP 全身递送编码成纤维细胞激活蛋白 CAR 的 mRNA，有助于原位生成功能性 CAR T 细胞，从而有效消除癌症和纤维化模型中的病理性成纤维细胞，且脱靶效应最小。这种无配体、代谢重编程 mRNA 递送系统为体内 CAR T 细胞生成提供了一种可临床转化的方法。
-
----
-### [A tolerogenic mRNA-LNP vaccine alleviates neuroinflammation and demyelination in experimental autoimmune encephalomyelitis.](https://pubmed.ncbi.nlm.nih.gov/42613282/)
-- **期刊**: *Science bulletin* | 🔥 IF: **44.7**
-- **发表日期**: 2026-Aug-05
-- **主要单位**: Institute of Immunology, PLA, Third Military Medical University (Army Medical University), Chongqing 400038, China
-- **核心结论**: 
-> 单细胞RNA测序显示，LiH-LNPs通过减少浸润性骨髓细胞和激活的小胶质细胞的丰度和炎症活性，诱导致脑炎T细胞凋亡，同时增加调节性T（Treg）细胞丰度和抑制活性，重塑脊髓微环境，以促进炎症消退。这些发现为多发性硬化症的抗原特异性免疫疗法提供了机制见解，并强调了基于 mRNA 疫苗的抗原特异性疗法在自身免疫性疾病中的潜在应用。
 
 ---
 ### [Bicistronic CD19/CD22 CAR T-Cell Therapy in Pediatric B-Cell Acute Lymphoblastic Leukemia: A Nonrandomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42690647/)
@@ -62,20 +62,20 @@
 > 值得注意的是，肺泡巨噬细胞的局部消耗完全消除了气管内疫苗接种所赋予的抗肿瘤保护，确立了它们在介导肺部 mRNA 疫苗功效中不可或缺的作用。总之，这些发现为肺泡巨噬细胞参与驱动的肺靶向 mRNA 癌症疫苗接种提供了机制见解，为设计用于肺癌免疫治疗的下一代基于 LNP 的纳米药物提供了重要见解。
 
 ---
+### [Intratumoral injection of EpCAM BITE, IL-12, and GM-CSF mRNA-LNPs blocks the growth of local treated and distant untreated tumors.](https://pubmed.ncbi.nlm.nih.gov/42696537/)
+- **期刊**: *Proceedings of the National Academy of Sciences of the United States of America* | 🔥 IF: **9.6**
+- **发表日期**: 2026-Sep-08
+- **主要单位**: Promab Biotechnologies, Richmond, CA 94564
+- **核心结论**: 
+> 这将癌细胞转变为潜在的抗原呈递细胞。将抗 EpCAM-CD3 与细胞因子 IL-12 和 GM-CSF 联合瘤内注射对注射部位远端肿瘤生长的影响避免了对正常组织的严重副作用，并表明该技术为治疗从早期到严重晚期的多种癌症提供了一种主要的免疫治疗方法。
+
+---
 ### [Breast cancer prevention by prophylactic Lalba mRNA-LNP vaccination.](https://pubmed.ncbi.nlm.nih.gov/42685084/)
 - **期刊**: *Proceedings of the National Academy of Sciences of the United States of America* | 🔥 IF: **9.6**
 - **发表日期**: 2026-Sep-08
 - **主要单位**: Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215
 - **核心结论**: 
 > 单细胞转录组分析表明，疫苗接种可降低免疫反应性早期上皮增生中增殖性 LP 群体的频率。总体而言，我们提供了原理证明，即预防性 Lalba mRNA-LNP 有可能抑制早期乳腺肿瘤病变的发生和进展。
-
----
-### [Delivery platforms for <i>in vivo</i> CAR-T engineering.](https://pubmed.ncbi.nlm.nih.gov/42614783/)
-- **期刊**: *Frontiers in immunology* | 🔥 IF: **5.7**
-- **发表日期**: 2026
-- **主要单位**: Clinical Laboratory, Second Affiliated Hospital of Dalian Medical University, Dalian, China
-- **核心结论**: 
-> 主要的转化挑战包括：脱靶转导和模糊的生物分布、非病毒系统的肝脏暴露偏差、持久载体的整合风险、重复剂量免疫、CMC 一致性和监管适应性。我们概述了一个实用的路线图——定量生物分布和效力、货物调整的持久性、受体感知靶向、强大的 CMC 和特定适应症的风险效益——以支持可重复和临床可解释的治疗开发。
 
 ---
 ### [Epitope-Based Nipah Virus G and F Head-to-Head Dimer mRNA Vaccines Exhibit Distinct Immunogenicity and Immune Profiles.](https://pubmed.ncbi.nlm.nih.gov/42646735/)
@@ -86,14 +86,6 @@
 > </b> 以表位为中心的二聚体设计有效地塑造了适应性免疫系统的独特防御机制。 NV3提供了一种平衡和协同的策略，结合了有效的体液和细胞免疫防御，为尼帕病毒（NiV）疫苗的开发提供了一个非常有前景的平台。
 
 ---
-### [In vivo engineering of T cells with a synthetic cytokine receptor enables selective enrichment and expansion of anti-CD22 CAR T cells.](https://pubmed.ncbi.nlm.nih.gov/42576385/)
-- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
-- **发表日期**: 2026-Aug-10
-- **主要单位**: Umoja Biopharma, Seattle, WA 98109, USA
-- **核心结论**: 
-> UB-VV400 提供由全人源抗 CD22 CAR 和雷帕霉素激活的细胞因子受体 (RACR) 组成的有效负载，使 CAR T 细胞能够响应雷帕霉素而优先扩增和富集。在此，我们描述的临床前研究表明，UB-VV400 产生抗 CD22 CAR T 细胞，可在体外和体内杀死表达 CD22 的 B 细胞和肿瘤细胞，并且 RACR 的参与导致 CAR T 细胞在体内选择性扩增和富集，从而完全清除肿瘤和消除 B 细胞。
-
----
 ### [Expression and immunogenicity of a rabies virus glycoprotein-HSV-2 ICP35 fusion antigen delivered by an mRNA-LNP formulation.](https://pubmed.ncbi.nlm.nih.gov/42586214/)
 - **期刊**: *Virus research* | 🔥 IF: **2.7**
 - **发表日期**: 2026-Aug-12
@@ -102,12 +94,36 @@
 > 值得注意的是，与单独使用任一疫苗相比，mRNA 和亚单位疫苗联合免疫进一步增强了免疫反应，狂犬病病毒特异性 IgG 滴度峰值达到 694.5 IU/mL。这些发现证明了基于 DCChol 的 mRNA-LNP 制剂用于融合抗原递送的可行性，并支持对组合 mRNA 和亚单位疫苗策略的进一步研究。
 
 ---
-### [Advances, challenges, and innovative strategies of CAR-T cell therapy in pancreatic cancer.](https://pubmed.ncbi.nlm.nih.gov/42681683/)
-- **期刊**: *Biomarker research* | IF: -
-- **发表日期**: 2026-Aug-07
-- **主要单位**: Department of General Surgery Center, The General Hospital of Western Theater Command, Chengdu, Sichuan, 610083, China
+### [A perspective on targeted LNPs.](https://pubmed.ncbi.nlm.nih.gov/42716129/)
+- **期刊**: *Journal of controlled release : official journal of the Controlled Release Society* | IF: -
+- **发表日期**: 2026-Sep-09
+- **主要单位**: Jbsimonsen Consult, Grønnevej 160, 2830 Virum, Denmark
 - **核心结论**: 
-> 总体而言，胰腺癌的CAR-T疗法正在从临床前探索走向临床转化。未来的成功可能取决于合理的靶点选择、多维 TME 调制、先进的 CAR 工程、精确递送和生物标志物引导的患者分层。
+> 我们重点介绍该领域最近的早期临床结果以及目前正在探索 tLNP 的临床前应用。最后，我们简要强调了与 tLNP 的可重复且具有成本效益的制造相关的潜在挑战，并强调需要额外的分析方法来充分表征这些复杂的制剂。
+
+---
+### [<i>In vivo</i> CAR-T for solid tumors: facing all the challenges of <i>ex vivo</i> CAR-T and more.](https://pubmed.ncbi.nlm.nih.gov/42708486/)
+- **期刊**: *Immunotherapy* | IF: -
+- **发表日期**: 2026-Sep-08
+- **主要单位**: Levitt Institute of Life and Digital Convergence Sciences, Zhengzhou University of Technology, Zhengzhou, Henan, China
+- **核心结论**: 
+> 因此，在血液恶性肿瘤和自身免疫性疾病中观察到的令人鼓舞的结果可能并不能预示实体瘤的成功。未来的进步可能更少地依赖于改善基因传递，而更多地依赖于建立支持 CAR-T 在肿瘤内浸润、扩展和持久存在的机制。
+
+---
+### [From cellular therapy to biologics: Non-viral delivery strategies for in vivo CAR-T engineering.](https://pubmed.ncbi.nlm.nih.gov/42705561/)
+- **期刊**: *Critical reviews in oncology/hematology* | IF: -
+- **发表日期**: 2026-Sep-07
+- **主要单位**: School of Pharmacy, Wannan Medical University, Wuhu 241002, China
+- **核心结论**: 
+> 它进一步概述了输送材料化学成分的演变趋势，并讨论了体内 CAR-T 疗法中各种基因有效负载的功能作用。这项综合调查的目的是提供前瞻性的视角来指导非病毒介导的体内 CAR-T 技术的合理设计和临床转化。
+
+---
+### [Nanomedicine-Empowered CAR-T Therapy for Multiple Myeloma: Toward Programmable, Durable, and Precision Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42703556/)
+- **期刊**: *International journal of nanomedicine* | IF: -
+- **发表日期**: 2026
+- **主要单位**: Department of Hematology, The People's Hospital of Baoan, Shenzhen, Guangdong, 518101, People's Republic of China
+- **核心结论**: 
+> 本综述系统地研究了 MM CAR-T 治疗后复发的主要生物学机制，特别强调了纳米技术的治疗潜力以及与 CAR-T 制造优化、体内免疫编程、骨髓微环境重塑和后 BCMA 时代的复发控制相关的转化挑战。通过整合肿瘤免疫学、材料科学和血液肿瘤学的进展，本综述提出了一个概念框架和未来的研究重点，以开发更快、更可控、持久和易于使用的 MM CAR-T 治疗策略。
 
 ---
 ### [Isolating T-Cell Potent Lentiviral Vector Subpopulations through Rational Design of Nanofiber Anion-Exchange Adsorbents.](https://pubmed.ncbi.nlm.nih.gov/42670153/)
@@ -166,14 +182,6 @@
 > 该协议描述了 CAR mRNA 体外转录、LNP 配方、T 细胞激活和转染、CAR 表达分析以及 CAR-T 介导的细胞毒性的体外和体内功能评估的详细程序。总而言之，该策略为生成瞬时 CAR-T 细胞提供了一个经济高效且多功能的平台，并为治疗实体瘤提供了一种有前途的方法。
 
 ---
-### [Generation and characterization of a novel MHC-II tetramer for tracking and characterization of toxin B-specific CD4+ T cell responses.](https://pubmed.ncbi.nlm.nih.gov/42601060/)
-- **期刊**: *Journal of immunology (Baltimore, Md. : 1950)* | IF: -
-- **发表日期**: 2026-Aug-04
-- **主要单位**: Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States
-- **核心结论**: 
-> 这些数据概述了艰难梭菌领域新工具的产生，并为未来毒素特异性 CD4+ T 细胞反应的研究奠定了基础。
-
----
 ### [FECH, a novel metabolic target influencing CAR T-cell phenotype and function.](https://pubmed.ncbi.nlm.nih.gov/42587334/)
 - **期刊**: *Biomarker research* | IF: -
 - **发表日期**: 2026-Aug-12
@@ -190,43 +198,19 @@
 > 转录组分析进一步表明，100% SS-LNP 诱导的免疫特征与 Chol-LNP 诱导的免疫特征很大程度上重叠，但没有证据表明存在明显的炎症转录程序。总之，这些发现确定 β-谷甾醇替代是 VZV mRNA-LNP 开发的一种有前途的制剂策略。
 
 ---
-### [In vivo generation of CD19 CAR T cells for the treatment of mouse systemic lupus erythematosus.](https://pubmed.ncbi.nlm.nih.gov/42574812/)
-- **期刊**: *International immunopharmacology* | IF: -
-- **发表日期**: 2026-Aug-10
-- **主要单位**: Department of Respiratory and Critical Care Medicine, The Affiliated Guangdong Second Provincial General Hospital of Jinan University, Guangzhou, China
+### [The innate regenerome: Harnessing mesenchymal niches and engineered cytotoxic killers for solid tumor immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42521112/)
+- **期刊**: *Experimental cell research* | IF: -
+- **发表日期**: 2026-Sep-01
+- **主要单位**: Internal medicine, Diabetes, Endocrinology and Metabolism, Mansoura University, Mansoura, Egypt
 - **核心结论**: 
-> 至关重要的是，这种体内策略诱导持续缓解，而不需要淋巴细胞清除预处理或离体细胞操作。我们的研究结果支持体内生成的 CAR T 细胞作为一种潜在的临床可行、有效的 SLE 治疗方式，为治疗性免疫治疗提供了一条可扩展的途径。
+> 转化优先事项包括人性化 MSTRG6 模型、类器官芯片平台和 RECIST 之外的响应终点。先天再生组将先天免疫从辅助力量重新定位为抗肿瘤和再生治疗的核心架构师。
 
 ---
-### [In vivo CAR-T therapy: The shift from ex vivo culturing to direct in situ immune reprogramming.](https://pubmed.ncbi.nlm.nih.gov/42574802/)
-- **期刊**: *International immunopharmacology* | IF: -
-- **发表日期**: 2026-Aug-10
-- **主要单位**: School of Pharmacy and Technology Management, SVKM's Narsee Monjee Institute of Management Studies (NMIMS), Deemed-to-be University, Green Industrial Park, TSIIC, Jadcherla, Hyderabad 509301, India
+### [Pharmacokinetic and pharmacodynamic characterization of CD8-targeted lentiviral vector for <i>in vivo</i> CD19-directed CAR-T therapy.](https://pubmed.ncbi.nlm.nih.gov/42502508/)
+- **期刊**: *Molecular therapy. Advances* | IF: -
+- **发表日期**: 2026-Sep-10
+- **主要单位**: Sana Biotechnology, Inc
 - **核心结论**: 
-> 早期可行性数据主要由临床前模型和转化研究支持，而由于潜在的免疫毒性、脱靶转导和监管挑战，安全性仍然是一个核心问题。本综述重点介绍了实现体内 CAR T 细胞生成的关键工程策略，总结了新兴的临床研究和开发，并讨论了将体内 CAR T 细胞疗法扩展为可扩展的免疫治疗平台的未来机会。
-
----
-### [Cross-serotype immunity elicited by a consensus dengue NS1 mRNA vaccine in mice.](https://pubmed.ncbi.nlm.nih.gov/42561029/)
-- **期刊**: *PloS one* | IF: -
-- **发表日期**: 2026
-- **主要单位**: Medical Sciences of Medicine, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
-- **核心结论**: 
-> Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
----
-### [Cascading attrition of in vivo CAR-T therapy: From systemic delivery failure to functional collapse.](https://pubmed.ncbi.nlm.nih.gov/42556595/)
-- **期刊**: *Critical reviews in oncology/hematology* | IF: -
-- **发表日期**: 2026-Aug-05
-- **主要单位**: Jiangsu Key Laboratory for Molecular and Medical Biotechnology, College of Life Sciences, Nanjing Normal University, Nanjing, 210023, China
-- **核心结论**: 
-> 一个关键的见解是，克服这种随机故障级联需要确定性设计而不是渐进式设计：合成生物学工具（免疫隐身表面、逻辑门控电路）的合理集成使得能够在复杂的体内微环境中进行精确导航。这一进展将该领域从被动剂量递增转向工程弹性，将体内 CAR-T 生成转变为治疗血液恶性肿瘤、实体瘤和自身免疫性疾病的临床可行平台。
-
----
-### [mRNA vaccines targeting HPV E6/E7: A new frontier in cervical cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42556594/)
-- **期刊**: *Critical reviews in oncology/hematology* | IF: -
-- **发表日期**: 2026-Aug-05
-- **主要单位**: Department of Molecular Medicine, Biotechnology Research Center, Pasteur Institute of Iran, Tehran, Iran
-- **核心结论**: 
-> 讨论了最近的临床进展，包括 BioNTech 的 BNT113 疫苗，该疫苗获得 FDA 快速通道指定，用于治疗 HPV16 阳性头颈癌，并讨论了交付优化、肿瘤微环境免疫抑制和制造可扩展性方面持续存在的挑战。该综述最后对免疫检查点抑制剂联合策略的未来展望以及个性化新抗原方法的潜力进行了总结。
+> 在移植有肿瘤的 PBMC 小鼠中观察到剂量依赖性肿瘤控制和特异性 CAR-T 细胞生成。总体而言，梭体的 PK/PD 和肿瘤模型中的功效支持其作为治疗 B 细胞淋巴瘤患者的<i>体内</i>基因递送方法的潜力。
 
 ---
