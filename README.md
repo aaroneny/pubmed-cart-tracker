@@ -2,7 +2,7 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-09-18
+📅 **更新日期**: 2026-09-25
 
 ---
 
@@ -56,18 +56,18 @@
 ---
 ### [Rewiring immunity with in vivo CAR T cell engineering.](https://pubmed.ncbi.nlm.nih.gov/42629461/)
 - **期刊**: *Nature cancer* | 🔥 IF: **23.5**
-- **发表日期**: 2026-Aug-21
+- **发表日期**: 2026-Sep
 - **主要单位**: Cancer Immunology Program, Peter MacCallum Cancer Centre, Parkville, Victoria, Australia
 - **核心结论**: 
 > This Perspective examines the rapidly evolving field of in vivo CAR T cell generation in oncology, outlines principles of lymphocyte targeting, discusses pharmacology and biodistribution and assesses emerging safety issues. We conclude with a translational outlook, highlighting both the opportunities and the outstanding questions that will define the path to clinical implementation..
 
 ---
-### [T-cell immunosenescence limits CD19 CAR T-cell function in chronic lymphocytic leukemia.](https://pubmed.ncbi.nlm.nih.gov/42636161/)
-- **期刊**: *Blood* | 🔥 IF: **20.3**
-- **发表日期**: 2026-Aug-24
-- **主要单位**: University of Pennsylvania, Philadelphia, Pennsylvania, United States
+### [In vivo CAR T-cell therapy: determinants of response and durability.](https://pubmed.ncbi.nlm.nih.gov/42777095/)
+- **期刊**: *Blood cancer discovery* | 🔥 IF: **20.3**
+- **发表日期**: 2026-Sep-23
+- **主要单位**: University of Southern California Los Angeles United States
 - **核心结论**: 
-> Ibrutinib improved proliferative fitness, attenuated senescence-associated features and SASP output in paired patient and direct-exposure assays, and enhanced CAR T-cell expansion in an ibrutinib-resistant CLL model. Together, these data identify immunosenescence as a measurable and functionally consequential barrier to CAR T-cell efficacy in CLL and a candidate for therapeutic modulation..
+> This Review summarizes clinical data and defines determinants of response that could be optimized for durable translation. It focuses on multiple myeloma, where clinical experience is most mature, while drawing on autoimmune applications..
 
 ---
 ### [Intratumoral injection of EpCAM BITE, IL-12, and GM-CSF mRNA-LNPs blocks the growth of local treated and distant untreated tumors.](https://pubmed.ncbi.nlm.nih.gov/42696537/)
@@ -86,20 +86,36 @@
 > Single-cell transcriptomic analysis revealed that vaccination decreases the frequency of a proliferative LP population in immunoreactive early epithelial hyperplasia. Overall, we provide proof of principle that prophylactic Lalba mRNA-LNP has the potential to suppress the initiation and progression of early breast neoplastic lesions..
 
 ---
-### [Epitope-Based Nipah Virus G and F Head-to-Head Dimer mRNA Vaccines Exhibit Distinct Immunogenicity and Immune Profiles.](https://pubmed.ncbi.nlm.nih.gov/42646735/)
-- **期刊**: *Vaccines* | 🔥 IF: **5.2**
-- **发表日期**: 2026-Aug-20
-- **主要单位**: Institute of Medical Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Kunming 650118, China
+### [<i>In vivo</i> CAR T-cell generation: delivery platforms, clinical progress, and translational barriers.](https://pubmed.ncbi.nlm.nih.gov/42761399/)
+- **期刊**: *Frontiers in immunology* | 🔥 IF: **5.7**
+- **发表日期**: 2026
+- **主要单位**: Department of Orthopaedics, Changzhou Hospital Affiliated to Nanjing University of Chinese Medicine, Changzhou, Jiangsu, China
 - **核心结论**: 
-> </b> An epitope-centered dimer design effectively shapes the unique defense mechanisms of the adaptive immune system. NV3 offers a balanced and synergistic strategy that combines potent humoral and cellular immune defenses, providing a highly promising platform for the development of a Nipah virus (NiV) vaccine.
+> Finally, we summarize early clinical trial progress and discuss future directions for improving the safety, efficacy, and translational potential of <i>in vivo</i> CAR T-cell therapy. Overall, <i>in vivo</i> CAR T-cell therapy represents an important extension of adoptive cell therapy and may reshape the development and clinical implementation of cell-based immunotherapies..
 
 ---
-### [Autocrine PD-1-blocking nanobodies enhance the antitumor efficacy of TCR-like CAR-T cells by attenuating t cell exhaustion.](https://pubmed.ncbi.nlm.nih.gov/42745268/)
-- **期刊**: *Journal of translational medicine* | IF: -
-- **发表日期**: 2026-Aug-21
-- **主要单位**: Guangdong Provincial Key Laboratory of Medical Immunology and Molecular Diagnostics, The First Dongguan Affiliated Hospital, School of Medical Technology, Guangdong Medical University, Dongguan, 523808, China
+### [Novel lipid nanoparticle in a mRNA cancer vaccine drives tumor control via type I IFNs and effector CD8<sup>+</sup> T cells.](https://pubmed.ncbi.nlm.nih.gov/42774904/)
+- **期刊**: *Molecular therapy. Nucleic acids* | IF: -
+- **发表日期**: 2026-Dec-08
+- **主要单位**: Providence Therapeutics Holdings, 8832 Blackfoot Trail SE, Ste 120, Calgary, AB T2J 3J1, Canada
 - **核心结论**: 
-> Local autocrine PD-1 checkpoint blockade potently enhances the effector function and durability of TCRm CAR-T cells. This armored TCRm CAR-T strategy is a promising therapeutic approach for solid tumor immunotherapy, with broad translational potential for other TCRm CAR systems targeting distinct peptide-MHC epitopes..
+> Mechanism-of-action studies revealed that INTENT-2.1, but not INTENT-1.1 LNP, induced type I interferons independently of the mRNA to enhance anti-tissue CD8<sup>+</sup> T cell responses. These results demonstrate the efficacy of INTENT-2.1 LNP for cancer vaccines, shed light on its mechanism of action, and support its use in clinical trials to treat solid tumors..
+
+---
+### [[In vivo CAR-T cells: When the patient becomes their own factory].](https://pubmed.ncbi.nlm.nih.gov/42773039/)
+- **期刊**: *Bulletin du cancer* | IF: -
+- **发表日期**: 2026-Sep-22
+- **主要单位**: Laboratoire dynamique du génome dans les maladies humaines, équipe Labellisée LIGUE 2026, Inserm UMR 1163, Institut Imagine, université Paris Cité, Paris, France
+- **核心结论**: 
+> We also summarize the key ongoing clinical trials evaluating in vivo CAR-T approaches in hematologic malignancies and autoimmune diseases. Finally, we highlight other in vivo CAR generation methods under development that may address remaining challenges..
+
+---
+### [In vivo CAR‑T cell therapy: mechanisms, clinical advances and optimization strategies.](https://pubmed.ncbi.nlm.nih.gov/42762928/)
+- **期刊**: *Biochemical pharmacology* | IF: -
+- **发表日期**: 2026-Sep-19
+- **主要单位**: Department of Biotherapy, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Collaborative Innovation Center for Biotherapy, Sichuan University, Chengdu 610041
+- **核心结论**: 
+> Subsequently, in response to these challenges, we systematically outline existing optimization strategies applicable to this therapy. Additionally, we provide perspectives for researchers on the optimization of in vivo CAR-T cell therapy..
 
 ---
 ### [Advances in CAR-T Cell Therapy: From Structural Design Innovations to Clinical Translation Challenges.](https://pubmed.ncbi.nlm.nih.gov/42741322/)
@@ -108,14 +124,6 @@
 - **主要单位**: Shanghai Mengchao Cancer Hospital & School of Medicine, Shanghai University, Shanghai 200444, China
 - **核心结论**: 
 > These advancements aim to enhance the specificity, safety, and accessibility of CAR-T therapies. This article seeks to outline the current state of CAR-T technology while providing insights into potential theoretical frameworks and technical pathways for its future evolution..
-
----
-### [Biomaterial Techniques for Enhancing CAR-T Cell Therapy of Solid Tumours.](https://pubmed.ncbi.nlm.nih.gov/42738250/)
-- **期刊**: *Cancers* | IF: -
-- **发表日期**: 2026-Aug-22
-- **主要单位**: School of Medicine, King's College London, 1st Floor, Henriette Raphael Building, Guy's Hospital Campus Great Maze Pond, London SE1 1UL, UK
-- **核心结论**: 
-> Biomaterial-enabled approaches offer a versatile toolkit to address key biological and translational barriers limiting CAR-T cell therapy of solid tumours. Strategies based on clinically familiar materials and simplified designs appear most suitable for near-term clinical translation, emphasising the need to balance engineering innovation with safety, scalability, and integration into existing clinical workflows..
 
 ---
 ### [Engineering tolerogenic mRNA-LNPs for allergen-specific immune reprogramming in pollen allergy.](https://pubmed.ncbi.nlm.nih.gov/42729701/)
@@ -174,17 +182,9 @@
 > This Review critically compares CAR-T, CAR-M, and CAR-NK platforms, examines emerging unconventional immune-cell and iPSC-derived products, and evaluates programmable and in vivo CAR-engineering strategies. We propose "controllable spatiotemporal reprogramming" as a framework linking target specificity, tissue distribution, activity duration, reversibility, manufacturing, and disease-specific safety requirements..
 
 ---
-### [Scalable Production of Transfection-Grade Plasmid DNA by Liquid-Liquid Extraction Without Chromatography: Application to CAR-T Vector Packaging.](https://pubmed.ncbi.nlm.nih.gov/42649828/)
-- **期刊**: *Bioengineering (Basel, Switzerland)* | IF: -
-- **发表日期**: 2026-Aug-20
-- **主要单位**: National Center for Biotechnology, Korgalzhin hwy 3/5, 010000 Astana, Kazakhstan
-- **核心结论**: 
-> Lentiviral vectors produced with these plasmids reached titers exceeding 5 × 10<sup>6</sup> TU/mL, with transduction efficiencies statistically indistinguishable from those obtained with CsCl-purified DNA. The acidic phenol extraction method is a robust, scalable, and cost-effective alternative to industry-standard methods, matching them in yield and purity while being readily scalable, making it a practical tool for both academic research and preparative laboratory production..
-
----
 ### [<i>In vivo</i> CAR T cells on the highway: a roadmap for the next decade.](https://pubmed.ncbi.nlm.nih.gov/42625558/)
 - **期刊**: *Expert opinion on biological therapy* | IF: -
-- **发表日期**: 2026-Aug-23
+- **发表日期**: 2026-Sep
 - **主要单位**: Division Genetic Immunotherapy, Leibniz Institute for Immunotherapy, Regensburg, Germany
 - **核心结论**: 
 > Although still in its infancy, <i>in vivo</i> genetic engineering shows promise for CAR T cell therapy in a wide range of cancer patients. It also has the potential to reprogram patients' immunity in autoimmunity, chronic infections, and regenerative medicine..
@@ -204,13 +204,5 @@
 - **主要单位**: Sana Biotechnology, Inc
 - **核心结论**: 
 > Dose-dependent tumor control and specific CAR-T cell generation were observed in tumor-bearing PBMC-engrafted mice. Overall, the PK/PD of fusosome and efficacy in the tumor model supports its potential as an <i>in vivo</i> gene delivery approach to treat patients with B cell lymphomas..
-
----
-### [Optimizing CAR-T therapy in diffuse large B-cell lymphoma: Biological determinants and translational strategies across the therapeutic continuum.](https://pubmed.ncbi.nlm.nih.gov/42431476/)
-- **期刊**: *Critical reviews in oncology/hematology* | IF: -
-- **发表日期**: 2026-Sep
-- **主要单位**: Bone Marrow Transplantation Center of the First Affiliated Hospital & Liangzhu Laboratory, Zhejiang University School of Medicine, Hangzhou, China
-- **核心结论**: 
-> We also discuss in vivo CAR-T technologies as an emerging platform with the potential to expand the therapeutic landscape and improve accessibility. By integrating evidence across studies, this review provides a comprehensive and systematic perspective on optimizing CAR-T efficacy in DLBCL while highlighting current evidence gaps and challenges to clinical implementation..
 
 ---
