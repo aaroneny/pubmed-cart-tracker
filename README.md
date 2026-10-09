@@ -2,16 +2,16 @@
 
 **聚焦方向**: In vivo CAR-T | mRNA-LNP (Oncology) | Lentiviral Engineering
 
-📅 **更新日期**: 2026-10-02
+📅 **更新日期**: 2026-10-09
 
 ---
 
-### [Publisher Correction: An inherent T cell-activating mRNA delivery carrier for in vivo CAR T generation.](https://pubmed.ncbi.nlm.nih.gov/42711506/)
-- **期刊**: *Nature materials* | 🔥 IF: **48.5**
-- **发表日期**: 2026-Sep-08
-- **主要单位**: College of Chemistry and Chemical Engineering, State Key Laboratory of Physical Chemistry of Solid Surfaces, State Key Laboratory of Vaccines for Infectious Diseases, Xiang An Biomedicine Laboratory, Innovation Laboratory for Sciences and Technologies of Energy Materials of Fujian Province (IKKEM), Xiamen University, Xiamen, China
+### [Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma.](https://pubmed.ncbi.nlm.nih.gov/42839103/)
+- **期刊**: *Nature medicine* | 🔥 IF: **58.7**
+- **发表日期**: 2026-Oct-06
+- **主要单位**: Institute of Hematology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China
 - **核心结论**: 
-> 暂无摘要
+> The limited persistence observed necessitates the further optimization of the in vivo CAR-T platform. ClinicalTrials.gov identifier: NCT06691685 ..
 
 ---
 ### [A tolerogenic mRNA-LNP vaccine alleviates neuroinflammation and demyelination in experimental autoimmune encephalomyelitis.](https://pubmed.ncbi.nlm.nih.gov/42613282/)
@@ -30,14 +30,6 @@
 > Using a macrophage-tropic mRNA-LNP platform to restore MG53 expression in vivo, thereby suppressing tumor growth and enhancing antitumor immune activity in PDAC. Our findings demonstrate that MG53 functions as a myeloid checkpoint regulator and suggest mRNA-based reprogramming as a potential strategy to address therapeutic resistance in PDAC..
 
 ---
-### [Bicistronic CD19/CD22 CAR T-Cell Therapy in Pediatric B-Cell Acute Lymphoblastic Leukemia: A Nonrandomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42690647/)
-- **期刊**: *JAMA oncology* | 🔥 IF: **28.4**
-- **发表日期**: 2026-Sep-03
-- **主要单位**: Cell Therapy Center, Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, National Health Committee Key Laboratory of Pediatric Hematology and Oncology, Shanghai, China
-- **核心结论**: 
-> These findings support further evaluation in prospective trials. Chinese Clinical Trial Register Identifier: ChiCTR2000032211..
-
----
 ### [In vivo CAR T-cell therapy: determinants of response and durability.](https://pubmed.ncbi.nlm.nih.gov/42777095/)
 - **期刊**: *Blood cancer discovery* | 🔥 IF: **20.3**
 - **发表日期**: 2026-Sep-23
@@ -54,28 +46,60 @@
 > For SCD, we targeted BCL11A and ZNF410 selectively in erythroid cells using miRNA-embedded shRNAs to derepress gamma-globin, reaching therapeutically relevant levels of 61.5% of beta-like globins. In summary, BaEVRLess-pseudotyped lentiviral vectors enable clinically relevant in vivo gene transfer and fetal globin induction for SCD..
 
 ---
-### [Intratumoral injection of EpCAM BITE, IL-12, and GM-CSF mRNA-LNPs blocks the growth of local treated and distant untreated tumors.](https://pubmed.ncbi.nlm.nih.gov/42696537/)
-- **期刊**: *Proceedings of the National Academy of Sciences of the United States of America* | 🔥 IF: **9.6**
-- **发表日期**: 2026-Sep-08
-- **主要单位**: Promab Biotechnologies, Richmond, CA 94564
+### [Nonarmored GCC-Targeting CAR T-cell Therapy Demonstrates Significant Efficacy in Patients with Advanced Colorectal Cancer.](https://pubmed.ncbi.nlm.nih.gov/42467218/)
+- **期刊**: *Clinical cancer research : an official journal of the American Association for Cancer Research* | 🔥 IF: **11.2**
+- **发表日期**: 2026-Oct-01
+- **主要单位**: Division of Life Sciences and Medicine, Department of Medical Oncology, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, China
 - **核心结论**: 
-> This turned the cancer cells into potentially antigen-presenting cells. The effect of combining intratumoral injection of anti-EpCAM-CD3 with cytokines IL-12 and GM-CSF on tumor growth distal to the injection site avoids serious side effects on normal tissue, and suggests this technology offers a major approach to immunotherapy for treatment of a wide range of cancers from early to severe late stages..
+> GCC-targeted CAR T cells demonstrated encouraging antitumor activity in heavily pretreated patients with colorectal cancer, with the initial data supporting GCC as a clinically actionable target. Further development will require dose selection, patient eligibility, and toxicity management optimization to improve the therapeutic profile..
 
 ---
-### [Breast cancer prevention by prophylactic Lalba mRNA-LNP vaccination.](https://pubmed.ncbi.nlm.nih.gov/42685084/)
-- **期刊**: *Proceedings of the National Academy of Sciences of the United States of America* | 🔥 IF: **9.6**
-- **发表日期**: 2026-Sep-08
-- **主要单位**: Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02215
-- **核心结论**: 
-> Single-cell transcriptomic analysis revealed that vaccination decreases the frequency of a proliferative LP population in immunoreactive early epithelial hyperplasia. Overall, we provide proof of principle that prophylactic Lalba mRNA-LNP has the potential to suppress the initiation and progression of early breast neoplastic lesions..
-
----
-### [<i>In vivo</i> CAR T-cell generation: delivery platforms, clinical progress, and translational barriers.](https://pubmed.ncbi.nlm.nih.gov/42761399/)
+### [<i>In vivo</i> CAR-T cell generation: a production-rate framework linking vector and cellular pharmacology.](https://pubmed.ncbi.nlm.nih.gov/42827775/)
 - **期刊**: *Frontiers in immunology* | 🔥 IF: **5.7**
 - **发表日期**: 2026
-- **主要单位**: Department of Orthopaedics, Changzhou Hospital Affiliated to Nanjing University of Chinese Medicine, Changzhou, Jiangsu, China
+- **主要单位**: Zhengzhou Advanced Research Institute, Harbin Institute of Technology, Zhengzhou, China
 - **核心结论**: 
-> Finally, we summarize early clinical trial progress and discuss future directions for improving the safety, efficacy, and translational potential of <i>in vivo</i> CAR T-cell therapy. Overall, <i>in vivo</i> CAR T-cell therapy represents an important extension of adoptive cell therapy and may reshape the development and clinical implementation of cell-based immunotherapies..
+> We develop this as a testable organizing hypothesis rather than a validated pharmacokinetic model, specifying which quantities are observed, which are inferred, and which are derived, together with four falsifiable predictions and the measurements required to evaluate them. "Production rate × functional window" is retained as a mnemonic for the two axes involved - the kinetics and duration of cellular generation, and the functional quality of the cells generated - rather than as an arithmetic product..
+
+---
+### [In vivo engineering of T cells with a synthetic cytokine receptor enables selective enrichment and expansion of anti-CD22 CAR T cells.](https://pubmed.ncbi.nlm.nih.gov/42576385/)
+- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Oct-07
+- **主要单位**: Umoja Biopharma, Seattle, WA 98109, USA
+- **核心结论**: 
+> UB-VV400 delivers a payload composed of a fully human anti-CD22 CAR and the rapamycin-activated cytokine receptor (RACR), which enable preferential expansion and enrichment of CAR T cells in response to rapamycin. Here, we describe preclinical studies demonstrating that UB-VV400 generates anti-CD22 CAR T cells that kill CD22-expressing B cells and tumor cells in vitro and in vivo, and that engagement of RACR results in the selective expansion and enrichment of CAR T cells in vivo leading to complete tumor clearance and B cell depletion..
+
+---
+### [A modified cyclosporine enhances lentivector transduction ex vivo and in vivo by degrading IFITM3.](https://pubmed.ncbi.nlm.nih.gov/42548049/)
+- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Oct-07
+- **主要单位**: Division of Infection and Immunity, University College London, London WC1E 6BT, UK
+- **核心结论**: 
+> Critically, HSPC transduced in the presence of BG147 showed successful engraftment in NGS mice. BG147 promises to transform ex vivo and in vivo gene therapies by transiently inhibiting intrinsic immune barriers mediated by IFITM3 to enhance a wide range of protocols..
+
+---
+### [Injectable bioinstructive microfoam for rapid bedside/in vivo programming of CAR-T cells.](https://pubmed.ncbi.nlm.nih.gov/42470101/)
+- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Oct-07
+- **主要单位**: Translational Science and Therapeutics Division, Fred Hutchinson Cancer Center, Seattle, WA 98109, USA
+- **核心结论**: 
+> The platform operates as a sterile closed system and does not require prolonged cell culture, centralized manufacturing facilities, or cleanroom-based cell production. These findings establish proof of concept for a simplified CAR-T generation strategy that may reduce manufacturing complexity and infrastructure requirements relative to conventional CAR-T therapy while improving the accessibility of cellular immunotherapies..
+
+---
+### [Addressing the package: Cell-specific gene delivery using lentiviral vectors.](https://pubmed.ncbi.nlm.nih.gov/42458835/)
+- **期刊**: *Molecular therapy : the journal of the American Society of Gene Therapy* | 🔥 IF: **4.5**
+- **发表日期**: 2026-Oct-07
+- **主要单位**: Institute of Experimental Hematology, Hannover Medical School, 30625 Hannover, Germany
+- **核心结论**: 
+> Since targeted vectors will be available as "off-the-shelf" drugs, they will also drastically reduce time to treatment. This review highlights advances in bioengineering to exploit the versatility of VSV-G-pseudotyped lentiviral vectors and explores their vast potential for targeted gene delivery..
+
+---
+### [H5 influenza virus mRNA-lipid nanoparticle (LNP) vaccination elicits adaptive immune responses in Holstein calves.](https://pubmed.ncbi.nlm.nih.gov/42847707/)
+- **期刊**: *Journal of virology* | 🔥 IF: **3.8**
+- **发表日期**: 2026-Oct-08
+- **主要单位**: National Animal Disease Center-United States Department of Agriculture, Agricultural Research Service, Ames, Iowa, USA
+- **核心结论**: 
+> We found that the H5 mRNA-LNP vaccine induced a robust antibody and CD8<sup>+</sup> T cell-mediated immune response and conferred protection against clade 2.3.4.4b H5N1 infection.IMPORTANCEIt is important to develop vaccines that limit clade 2.3.4.4b H5N1 infection in cattle. In this study, we found that a new H5 mRNA-lipid nanoparticle vaccine is immunogenic when delivered intramuscularly to male Holstein calves..
 
 ---
 ### [Expression and immunogenicity of a rabies virus glycoprotein-HSV-2 ICP35 fusion antigen delivered by an mRNA-LNP formulation.](https://pubmed.ncbi.nlm.nih.gov/42586214/)
@@ -126,14 +150,6 @@
 > Subsequently, in response to these challenges, we systematically outline existing optimization strategies applicable to this therapy. Additionally, we provide perspectives for researchers on the optimization of in vivo CAR-T cell therapy..
 
 ---
-### [Advances in CAR-T Cell Therapy: From Structural Design Innovations to Clinical Translation Challenges.](https://pubmed.ncbi.nlm.nih.gov/42741322/)
-- **期刊**: *Journal of Cancer* | IF: -
-- **发表日期**: 2026
-- **主要单位**: Shanghai Mengchao Cancer Hospital & School of Medicine, Shanghai University, Shanghai 200444, China
-- **核心结论**: 
-> These advancements aim to enhance the specificity, safety, and accessibility of CAR-T therapies. This article seeks to outline the current state of CAR-T technology while providing insights into potential theoretical frameworks and technical pathways for its future evolution..
-
----
 ### [Engineering tolerogenic mRNA-LNPs for allergen-specific immune reprogramming in pollen allergy.](https://pubmed.ncbi.nlm.nih.gov/42729701/)
 - **期刊**: *Materials today. Bio* | IF: -
 - **发表日期**: 2026-Oct
@@ -150,30 +166,6 @@
 > We highlight recent early-stage clinical results in this area and preclinical applications in which tLNPs are currently being explored. Finally, we briefly highlight potential challenges associated with the reproducible and cost-effective manufacture of tLNPs and emphasize the need for additional analytical methods to adequately characterize these complex formulations..
 
 ---
-### [<i>In vivo</i> CAR-T for solid tumors: facing all the challenges of <i>ex vivo</i> CAR-T and more.](https://pubmed.ncbi.nlm.nih.gov/42708486/)
-- **期刊**: *Immunotherapy* | IF: -
-- **发表日期**: 2026-Sep-08
-- **主要单位**: Levitt Institute of Life and Digital Convergence Sciences, Zhengzhou University of Technology, Zhengzhou, Henan, China
-- **核心结论**: 
-> The encouraging results observed in hematologic malignancies and autoimmune diseases may therefore not predict success in solid tumors. Future advances will likely depend less on improving gene delivery and more on establishing mechanisms that support CAR-T infiltration, expansion, and persistence within tumors..
-
----
-### [From cellular therapy to biologics: Non-viral delivery strategies for in vivo CAR-T engineering.](https://pubmed.ncbi.nlm.nih.gov/42705561/)
-- **期刊**: *Critical reviews in oncology/hematology* | IF: -
-- **发表日期**: 2026-Sep-07
-- **主要单位**: School of Pharmacy, Wannan Medical University, Wuhu 241002, China
-- **核心结论**: 
-> It further outlines the evolving trends in the chemical composition of delivery materials and discusses the functional roles of various genetic payloads within in vivo CAR-T therapy. The objective of this comprehensive survey is to provide a forward-looking perspective to guide the rational design and clinical translation of non-viral-mediated in vivo CAR-T technologies..
-
----
-### [Nanomedicine-Empowered CAR-T Therapy for Multiple Myeloma: Toward Programmable, Durable, and Precision Immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42703556/)
-- **期刊**: *International journal of nanomedicine* | IF: -
-- **发表日期**: 2026
-- **主要单位**: Department of Hematology, The People's Hospital of Baoan, Shenzhen, Guangdong, 518101, People's Republic of China
-- **核心结论**: 
-> This review systematically examines the major biological mechanisms underlying relapse after CAR-T therapy in MM, with particular emphasis on both the therapeutic potential of nanotechnology and the translational challenges associated with CAR-T manufacturing optimization, in vivo immune programming, bone marrow microenvironment remodeling, and relapse control in the post-BCMA era. By integrating advances in tumor immunology, materials science, and hematologic oncology, this review proposes a conceptual framework and future research priorities for developing faster, more controllable, durable, and accessible CAR-T therapeutic strategies for MM..
-
----
 ### [mRNA vaccines targeting HPV E6/E7: A new frontier in cervical cancer immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/42556594/)
 - **期刊**: *Critical reviews in oncology/hematology* | IF: -
 - **发表日期**: 2026-Oct
@@ -188,5 +180,21 @@
 - **主要单位**: Sana Biotechnology, Inc
 - **核心结论**: 
 > Dose-dependent tumor control and specific CAR-T cell generation were observed in tumor-bearing PBMC-engrafted mice. Overall, the PK/PD of fusosome and efficacy in the tumor model supports its potential as an <i>in vivo</i> gene delivery approach to treat patients with B cell lymphomas..
+
+---
+### [Biomarker-guided pharmacotherapy in cardiovascular-kidney-metabolic syndrome: A three-dimensional framework for precision drug selection and monitoring.](https://pubmed.ncbi.nlm.nih.gov/42492739/)
+- **期刊**: *Pharmacology & therapeutics* | IF: -
+- **发表日期**: 2026-Oct
+- **主要单位**: Department of Nephrology, Eighth Affiliated Hospital of Sun Yat-sen University, Shenzhen, China
+- **核心结论**: 
+> We further present a comprehensive drug-biomarker interaction matrix with pharmacological rationale and analyze the emerging drug development pipeline, including RNA-based Lp(a) therapeutics, FGF21 analogues, galectin-3 inhibitors, and in vivo CAR-T anti-fibrotic approaches. This framework provides a practical roadmap for biomarker-guided precision pharmacotherapy in CKM syndrome..
+
+---
+### [New approach methodologies (NAMs) for preclinical and translational evaluation of mRNA-lipid nanoparticle (LNP) therapeutics.](https://pubmed.ncbi.nlm.nih.gov/42398834/)
+- **期刊**: *Journal of controlled release : official journal of the Controlled Release Society* | IF: -
+- **发表日期**: 2026-Sep-10
+- **主要单位**: Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, North Carolina, USA
+- **核心结论**: 
+> We then provide a comprehensive overview of emerging NAM technologies, including in vitro and ex vivo-based platforms such as two-dimensional and three-dimensional cell culture systems and microphysiological platforms; as well as in silico tools, including physiologically based pharmacokinetic (PBPK), quantitative systems pharmacology (QSP), and artificial intelligence (AI) models for formulation design and delivery optimization. Collectively, this review highlights how systematic adoption of NAMs can improve human predictivity, accelerate development timelines, and support more efficient, ethical, and translational robust mRNA-LNP drug development..
 
 ---
